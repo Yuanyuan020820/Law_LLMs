@@ -1,0 +1,8 @@
+Gemini API Test Log - 2025-07-30 18:26:04.513899
+API Key: AIzaSyD3Ioxex7rZ9ZMffKlOExuT3JfB2O8mdxc
+Model: gemini-2.5-pro-preview-06-05
+Total Questions: 40
+
+
+[Question 1/40] How do I apply for the Uk Family Visa?
+Getting Gemini response...

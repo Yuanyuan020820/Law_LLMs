@@ -1,0 +1,26 @@
+Gemini API Test Log - 2025-07-30 17:50:19.226141
+API Key: AIzaSyD3Ioxex7rZ9ZMffKlOExuT3JfB2O8mdxc
+Model: gemini-1.5-flash-latest
+Total Questions: 40
+
+
+[Question 1/40] How do I apply for the Uk Family Visa?
+Getting Gemini response...
+Gemini response: To apply for a UK Family visa, you must use the online application system on the UK Visas and Immigration (UKVI) website.  There is no single "Family Visa"; the specific visa category depends on your relationship to the person in the UK sponsoring you.  You'll need to determine the correct visa category based on your relationship (e.g., spouse, partner, child, parent).
+
+The application process generally involves:
+
+1. **Determining Eligibility:**  Carefully review the UKVI guidance for the specific family visa category relevant to your situation.  Eligibility criteria vary significantly depending on the relationship and the sponsor's circumstances.  This includes meeting financial requirements and demonstrating a genuine and subsisting relationship.
+
+2. **Gathering Documents:**  You'll need to provide extensive evidence to support your application, including proof of identity, relationship, financial support, and potentially tuberculosis (TB) test results.  The exact documents required are specified in the guidance for your chosen visa category.
+
+3. **Completing the Online Application Form:**  Accurately and completely fill out the online application form on the UKVI website.  Inaccurate or incomplete information can lead to delays or refusal.
+
+4. **Paying the Application Fee:**  Pay the required application fee online.
+
+5. **Submitting Your Application:**  Upload all required documents electronically.  You may be required to attend an appointment at a visa application centre (VAC) for biometric data collection (fingerprints and photograph).
+
+6. **Waiting for a Decision:**  Processing times vary, and you should check the UKVI website for current estimates.
+
+**Crucially:**  Always refer to the official UKVI website for the most up-to-date information and guidance on specific visa categories and application procedures.  The information provided here is for general guidance only and should not be considered legal advice.  The UKVI website is the definitive source.
+Evaluation: Score=1.59/5, Similarity=0.319, Key Points Covered=0/3

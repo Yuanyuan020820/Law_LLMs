@@ -1,0 +1,15 @@
+Gemini API Test Log - 2025-07-30 17:45:59.314953
+API Key: AIzaSyD3Ioxex7rZ9ZMffKlOExuT3JfB2O8mdxc
+Model: gemini-2.5-pro
+Total Questions: 40
+
+
+[Question 1/40] How do I apply for the Uk Family Visa?
+Getting Gemini response...
+Gemini response: 
+Evaluation: Score=0.0/5, Similarity=0.000, Key Points Covered=0/3
+
+[Question 2/40] How do I apply for the Graduate Visa?
+Getting Gemini response...
+Gemini response: 
+Evaluation: Score=0.0/5, Similarity=0.000, Key Points Covered=0/3

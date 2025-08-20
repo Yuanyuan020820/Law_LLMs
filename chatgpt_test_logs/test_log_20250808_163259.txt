@@ -1,0 +1,208 @@
+ChatGPT API Test Log - 2025-08-08 16:32:59.027659
+API Key: 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
+Total Questions: 40
+
+
+[Question 1/40] What should I know about: Services and information?
+Fetching ChatGPT response...
+ChatGPT response: Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 2/40] What should I know about: Government activity?
+Fetching ChatGPT response...
+ChatGPT response: Departments News Guidance and regulation Research and statistics Policy papers and consultations Transparency How government works Get involved
+Evaluation: Score=3.18/5, Similarity=0.635, Key Points Covered=0/3
+
+[Question 3/40] What should I know about: Topics?
+Fetching ChatGPT response...
+ChatGPT response: Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions
+Evaluation: Score=1.72/5, Similarity=0.343, Key Points Covered=0/3
+
+[Question 4/40] What should I know about: What you need to do?
+Fetching ChatGPT response...
+ChatGPT response: Check if you need a UK visa, apply, manage your application, biometric residence permits
+Evaluation: Score=1.81/5, Similarity=0.262, Key Points Covered=1/3
+
+[Question 5/40] What should I know about: Visit the UK?
+Fetching ChatGPT response...
+ChatGPT response: Visit for tourism, business or a short stay (up to 6 months), airport transit visas
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=1/3
+
+[Question 6/40] What should I know about: Work in the UK?
+Fetching ChatGPT response...
+ChatGPT response: Answer a few questions to find out if you need a work visa to work in the UK, and how to apply if you do.
+Evaluation: Score=1.32/5, Similarity=0.265, Key Points Covered=0/3
+
+[Question 7/40] What should I know about: Study in the UK?
+Fetching ChatGPT response...
+ChatGPT response: You’ll need to apply for a visa to study in the UK. You must have a place on a course, speak, read, write and understand English, and have enough money to support yourself.
+Evaluation: Score=0.45/5, Similarity=0.090, Key Points Covered=0/3
+
+[Question 8/40] What should I know about: Family in the UK?
+Fetching ChatGPT response...
+ChatGPT response: Spouse, partner or family member visas: https://www.gov.uk/uk-family-visa
+Evaluation: Score=1.44/5, Similarity=0.288, Key Points Covered=0/3
+
+[Question 9/40] What should I know about: EU, EEA and Swiss citizens?
+Fetching ChatGPT response...
+ChatGPT response: Settled and pre-settled status
+Evaluation: Score=2.56/5, Similarity=0.512, Key Points Covered=0/3
+
+[Question 10/40] What should I know about: Ukrainians and their families?
+Fetching ChatGPT response...
+ChatGPT response: Ukrainians and their family members can apply to the Ukraine Family Scheme to come to the UK.
+Evaluation: Score=1.17/5, Similarity=0.234, Key Points Covered=0/3
+
+[Question 11/40] What should I know about: Commonwealth citizens and British nationals (overseas)?
+Fetching ChatGPT response...
+ChatGPT response: Commonwealth citizens and British nationals (overseas) have different rights to live, work and study in the UK. Commonwealth citizens have the right to live, work and study in the UK, while British nationals (overseas) do not have the automatic right to live, work or study in the UK.
+Evaluation: Score=0.38/5, Similarity=0.076, Key Points Covered=0/3
+
+[Question 12/40] What should I know about: Live permanently in the UK?
+Fetching ChatGPT response...
+ChatGPT response: Settled status (indefinite leave to remain) and citizenship
+Evaluation: Score=2.32/5, Similarity=0.465, Key Points Covered=0/3
+
+[Question 13/40] What should I know about: Seek protection or asylum?
+Fetching ChatGPT response...
+ChatGPT response: Claiming asylum as a refugee, the asylum process and support
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 14/40] What should I know about: Immigration appeals and status problems?
+Fetching ChatGPT response...
+ChatGPT response: Appeal against a visa, settlement or asylum decision, immigration status problems
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 15/40] What should I know about: Travelling to the UK?
+Fetching ChatGPT response...
+ChatGPT response: Travelling to the UK for visits, work, study or joining family members.
+Evaluation: Score=0.0/5, Similarity=0.000, Key Points Covered=0/3
+
+[Question 16/40] What should I know about: Is this page useful??
+Fetching ChatGPT response...
+ChatGPT response: Maybe Yes this page is useful No this page is not useful
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 17/40] What should I know about: Help us improve GOV.UK?
+Fetching ChatGPT response...
+ChatGPT response: Don’t include personal or financial information like your National Insurance number or credit card details.
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 18/40] What should I know about: Help us improve GOV.UK?
+Fetching ChatGPT response...
+ChatGPT response: Don’t include personal or financial information like your National Insurance number or credit card details.
+Evaluation: Score=0.23/5, Similarity=0.046, Key Points Covered=0/3
+
+[Question 19/40] What should I know about: Services and information?
+Fetching ChatGPT response...
+ChatGPT response: Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 20/40] What should I know about: Government activity?
+Fetching ChatGPT response...
+ChatGPT response: Departments News Guidance and regulation Research and statistics Policy papers and consultations Transparency How government works Get involved
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 21/40] What should I know about: Support links?
+Fetching ChatGPT response...
+ChatGPT response: Help Privacy Cookies Accessibility statement Contact Terms and conditions Rhestr o Wasanaethau Cymraeg Government Digital Service
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=1/3
+
+[Question 22/40] What should I know about: Services and information?
+Fetching ChatGPT response...
+ChatGPT response: Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 23/40] What should I know about: Government activity?
+Fetching ChatGPT response...
+ChatGPT response: Departments News Guidance and regulation Research and statistics Policy papers and consultations Transparency How government works Get involved
+Evaluation: Score=3.18/5, Similarity=0.635, Key Points Covered=0/3
+
+[Question 24/40] What should I know about: Is this page useful??
+Fetching ChatGPT response...
+ChatGPT response: Maybe Yes this page is useful No this page is not useful
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 25/40] What should I know about: Help us improve GOV.UK?
+Fetching ChatGPT response...
+ChatGPT response: Don’t include personal or financial information like your National Insurance number or credit card details.
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 26/40] What should I know about: Help us improve GOV.UK?
+Fetching ChatGPT response...
+ChatGPT response: Don’t include personal or financial information like your National Insurance number or credit card details.
+Evaluation: Score=0.23/5, Similarity=0.046, Key Points Covered=0/3
+
+[Question 27/40] What should I know about: Services and information?
+Fetching ChatGPT response...
+API call error: 'APITimeoutError' object has no attribute 'status_code'
+Evaluation: Score=0.0/5, Similarity=0.000, Key Points Covered=0/3
+
+[Question 28/40] What should I know about: Government activity?
+Fetching ChatGPT response...
+ChatGPT response: Departments News Guidance and regulation Research and statistics Policy papers and consultations Transparency How government works Get involved
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 29/40] What should I know about: Support links?
+Fetching ChatGPT response...
+ChatGPT response: Help Privacy Cookies Accessibility statement Contact Terms and conditions Rhestr o Wasanaethau Cymraeg Government Digital Service
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=1/3
+
+[Question 30/40] What should I know about: Services and information?
+Fetching ChatGPT response...
+ChatGPT response: Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 31/40] What should I know about: Government activity?
+Fetching ChatGPT response...
+ChatGPT response: Departments News Guidance and regulation Research and statistics Policy papers and consultations Transparency How government works Get involved
+Evaluation: Score=3.18/5, Similarity=0.635, Key Points Covered=0/3
+
+[Question 32/40] What should I know about: Is this page useful??
+Fetching ChatGPT response...
+ChatGPT response: Maybe Yes this page is useful No this page is not useful
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 33/40] What should I know about: Help us improve GOV.UK?
+Fetching ChatGPT response...
+ChatGPT response: Don’t include personal or financial information like your National Insurance number or credit card details.
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 34/40] What should I know about: Help us improve GOV.UK?
+Fetching ChatGPT response...
+ChatGPT response: Don’t include personal or financial information like your National Insurance number or credit card details.
+Evaluation: Score=0.23/5, Similarity=0.046, Key Points Covered=0/3
+
+[Question 35/40] What should I know about: Services and information?
+Fetching ChatGPT response...
+ChatGPT response: Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 36/40] What should I know about: Government activity?
+Fetching ChatGPT response...
+ChatGPT response: Departments News Guidance and regulation Research and statistics Policy papers and consultations Transparency How government works Get involved
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 37/40] What should I know about: Support links?
+Fetching ChatGPT response...
+ChatGPT response: Help Privacy Cookies Accessibility statement Contact Terms and conditions Rhestr o Wasanaethau Cymraeg Government Digital Service
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=1/3
+
+[Question 38/40] What should I know about: Services and information?
+Fetching ChatGPT response...
+ChatGPT response: Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+[Question 39/40] What should I know about: Government activity?
+Fetching ChatGPT response...
+ChatGPT response: Departments News Guidance and regulation Research and statistics Policy papers and consultations Transparency How government works Get involved
+Evaluation: Score=3.18/5, Similarity=0.635, Key Points Covered=0/3
+
+[Question 40/40] What should I know about: Is this page useful??
+Fetching ChatGPT response...
+ChatGPT response: Maybe Yes this page is useful No this page is not useful
+Evaluation: Score=5/5, Similarity=1.000, Key Points Covered=0/3
+
+Results saved to:
+  - chatgpt_test_logs\chatgpt_uk_immigration_test_results.csv
+  - chatgpt_test_logs\chatgpt_uk_immigration_test_results.json

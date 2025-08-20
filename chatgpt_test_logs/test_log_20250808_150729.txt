@@ -1,0 +1,740 @@
+ChatGPT API Test Log - 2025-08-08 15:07:29.793710
+API Key: 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
+Total Questions: 31
+
+
+[Question 1/31] Can my partner and children join me in the UK while I study?
+Fetching ChatGPT response...
+ChatGPT response: Yes, your partner and children may be able to join you in the UK while you study, depending on your circumstances.
+
+If you are in the UK on a Student visa, your partner and children can apply as your dependants if:
+
+- You are studying a full-time postgraduate course (RQF level 7 or above) that lasts 9 months or longer, or
+- You are a government-sponsored student on a course that lasts longer than 6 months.
+
+Your dependants include:
+
+- Your husband, wife, civil partner, or unmarried partner
+- Your children under 18 years old (including those born in the UK during your stay)
+
+Each dependant must apply for a visa and meet financial requirements to show they can be supported in the UK.
+
+For full details, visit the official UK government website: [https://www.gov.uk/student-visa/family-members](https://www.gov.uk/student-visa/family-members)
+Evaluation: Score=3.41/5, Similarity=0.482, Key Points Covered=2/3
+
+[Question 2/31] How can I extend my student visa to continue studying in the UK?
+Fetching ChatGPT response...
+ChatGPT response: To extend your Student visa in the UK, you must meet the following requirements:
+
+1. **Eligibility**:
+   - You must be in the UK on a valid Student visa (or Tier 4 visa).
+   - You must have an unconditional offer of a place on a course with a licensed student sponsor.
+   - Your new course must begin within 28 days of your current visa expiring.
+   - The course must be at a higher academic level than your previous course, or be part of a progression route (with some exceptions).
+
+2. **Application Process**:
+   - Apply online through the UK government website: [https://www.gov.uk/student-visa/extend-your-visa](https://www.gov.uk/student-visa/extend-your-visa).
+   - You must apply before your current visa expires.
+   - You’ll need to provide a Confirmation of Acceptance for Studies (CAS) from your education provider.
+
+3. **Documents Required**:
+   - A valid passport or travel document.
+   - Your CAS reference number.
+   - Proof of financial support (unless exempt).
+   - Evidence of academic qualifications.
+   - Tuberculosis test results (if applicable).
+
+4. **Fees and Processing Time**:
+   - Application fee: £490.
+   - Immigration Health Surcharge: £776 per year.
+   - Standard processing time is up to 8 weeks if applying from inside the UK.
+
+5. **Conditions**:
+   - You must not travel outside the UK, Ireland, the Channel Islands or the Isle of Man while your application is being processed.
+   - You can stay in the UK while your application is being decided, even if your current visa expires during this time.
+
+Always check the latest guidance on the official UK government website: [https://www.gov.uk/student-visa](https://www.gov.uk/student-visa).
+Evaluation: Score=3.06/5, Similarity=0.512, Key Points Covered=1/3
+
+[Question 3/31] Can I switch to a Student visa if I’m already in the UK on another visa?
+Fetching ChatGPT response...
+ChatGPT response: Yes, you can switch to a Student visa from certain types of visas while you are in the UK. According to UK government guidance, you may apply to switch to a Student visa if you are already in the UK on a valid visa that is not one of the following:
+
+- Visit visa  
+- Short-term student visa  
+- Parent of a Child Student visa  
+- Seasonal Worker visa  
+- Domestic Worker in a Private Household visa  
+- Immigration bail  
+- Permission to stay outside the immigration rules
+
+If you are on one of the above visa types, you must leave the UK and apply for a Student visa from outside the country.
+
+You must also meet all the Student visa requirements, including having an unconditional offer from a licensed student sponsor, a Confirmation of Acceptance for Studies (CAS), and proof of sufficient funds.
+
+Always check the latest guidance on the official UK government website or consult an immigration adviser for your specific circumstances.
+Evaluation: Score=3.4/5, Similarity=0.580, Key Points Covered=1/3
+
+[Question 4/31] What are the basic requirements for a family visa to live with a family member in the UK for over 6 months?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a UK family visa to live with a family member for over 6 months, you must meet the following basic requirements:
+
+1. **Relationship Requirement**:  
+   You must be the spouse, fiancé(e), civil partner, unmarried partner, child, parent, or dependent relative of a British citizen or a person settled in the UK (e.g. with indefinite leave to remain or settled status).
+
+2. **Financial Requirement**:  
+   The UK sponsor must usually meet a minimum income threshold:
+   - £18,600 per year for a partner.
+   - An additional £3,800 for the first child and £2,400 for each additional child (if applying with children).
+   Alternative sources like savings may be used if income is insufficient.
+
+3. **English Language Requirement**:  
+   You must prove your knowledge of English by passing an approved English language test at the required level or having an academic qualification taught in English. Some exemptions apply.
+
+4. **Accommodation Requirement**:  
+   There must be adequate accommodation for you and your family without recourse to public funds.
+
+5. **Genuine Relationship**:  
+   You must prove that your relationship is genuine and subsisting (for partner applications).
+
+6. **Immigration Status of Sponsor**:  
+   The UK-based family member must be a British citizen, have indefinite leave to remain, settled status under the EU Settlement Scheme, or refugee/humanitarian protection status.
+
+Applications are typically made online, and you may need to attend a biometric appointment.
+
+For full details and to check eligibility, visit the official UK government website: [https://www.gov.uk/uk-family-visa](https://www.gov.uk/uk-family-visa)
+Evaluation: Score=2.97/5, Similarity=0.394, Key Points Covered=2/3
+
+[Question 5/31] How can I apply as a partner or spouse of someone settled in the UK?
+Fetching ChatGPT response...
+ChatGPT response: To apply as a partner or spouse of someone settled in the UK, you must apply for a UK Family visa under the "Partner" route. Here's how:
+
+**Eligibility Requirements:**
+1. **Relationship:** You must be the spouse, civil partner, fiancé(e), or unmarried partner of a British citizen or someone settled in the UK.
+2. **Genuine Relationship:** You must prove your relationship is genuine and subsisting.
+3. **Financial Requirement:** You and your partner must have a combined income of at least £18,600 per year (more if you have dependent children).
+4. **English Language:** You must prove your knowledge of English (usually by passing an approved English language test or having a degree taught in English).
+5. **Accommodation:** You must have suitable accommodation in the UK.
+
+**Application Process:**
+1. Apply online on the UK government website: [https://www.gov.uk/uk-family-visa/partner-spouse](https://www.gov.uk/uk-family-visa/partner-spouse)
+2. Provide biometric information (fingerprints and photo).
+3. Submit supporting documents (e.g., proof of relationship, income, accommodation, English language ability).
+4. Pay the application fee and the Immigration Health Surcharge (IHS).
+
+**Fees (as of 2024):**
+- Outside the UK: £1,846
+- Inside the UK (switching or extending): £1,048
+- IHS: £1,035 per year
+
+**Visa Duration:**
+- Initial visa is usually granted for 2 years and 9 months (if applying from outside the UK) or 2 years and 6 months (if applying from inside the UK).
+- You can extend and later apply for Indefinite Leave to Remain (ILR) after 5 years.
+
+Always check the latest guidance on the official UK government website before applying.
+Evaluation: Score=2.52/5, Similarity=0.404, Key Points Covered=1/3
+
+[Question 6/31] What are the financial requirements for applying as a partner or spouse?
+Fetching ChatGPT response...
+ChatGPT response: To apply as a partner or spouse under the UK Family Visa route, you must meet the financial requirement to show that you can be supported without recourse to public funds. As of 2024, the financial requirements are:
+
+### Minimum Income Threshold
+- **£18,600 per year** if applying as a partner with no children.
+- **£22,400 per year** if applying with one dependent child.
+- **An additional £2,400 per year** for each additional child.
+
+These thresholds apply if the sponsor (the UK-based partner) is relying on income from employment, self-employment, or other permitted sources.
+
+### Sources of Income That Can Be Used
+- Employment or self-employment income of the sponsor (and the applicant if already in the UK with permission to work).
+- Cash savings over £16,000 (must be held for at least 6 months).
+- Pension income.
+- Non-employment income (e.g., rental income, dividends).
+
+### Cash Savings Alternative
+If relying solely on cash savings, you must have at least **£62,500** held for at least 6 months to meet the requirement without other income (for a partner with no children).
+
+### Exemptions
+You may be exempt from the financial requirement if the sponsor receives certain benefits such as:
+- Disability Living Allowance (DLA)
+- Personal Independence Payment (PIP)
+- Carer’s Allowance
+- Armed Forces Independence Payment
+
+In such cases, you must show that you have adequate maintenance instead.
+
+Always check the latest guidance on the official UK government website, as requirements may change.
+Evaluation: Score=3.16/5, Similarity=0.333, Key Points Covered=3/3
+
+[Question 7/31] How can I apply to live in the UK as a parent of a child in the UK?
+Fetching ChatGPT response...
+ChatGPT response: To apply to live in the UK as a parent of a child who is living in the UK, you must apply for a **Parent visa** under the **Family route**.
+
+### Eligibility:
+You can apply if:
+- Your child is under 18 and living in the UK, or was under 18 when you first applied and is not living an independent life.
+- Your child is a British citizen or has settled status (e.g., indefinite leave to remain or EU Settled Status).
+- You are not in a relationship with the child’s other parent anymore.
+- You have parental responsibility or direct access to the child (as agreed with the other parent or by a court order).
+- You are taking an active role in your child’s upbringing.
+- You meet the English language requirement.
+- You can financially support yourself without recourse to public funds.
+
+### Application Process:
+- Apply online from outside or inside the UK.
+- Provide biometric information and supporting documents.
+- Pay the visa fee and the Immigration Health Surcharge (IHS).
+
+### Visa Duration:
+- Usually granted for 2 years and 9 months (if applying from outside the UK) or 2 years and 6 months (if applying from inside the UK).
+- You can apply to extend your visa and may be eligible for settlement after 5 years.
+
+### More Information:
+Visit the official UK government website: [https://www.gov.uk/parent-visa](https://www.gov.uk/parent-visa)
+Evaluation: Score=3.13/5, Similarity=0.526, Key Points Covered=1/3
+
+[Question 8/31] Can a child apply to join their parent in the UK under the family visa route?
+Fetching ChatGPT response...
+ChatGPT response: Yes, a child can apply to join their parent in the UK under the family visa route, provided certain requirements are met. The child must be under 18 years old (or have been under 18 when they first applied and not have formed an independent life), and the parent they are joining must either:
+
+- Be a British citizen,
+- Have settled status (indefinite leave to remain or permanent residence),
+- Have refugee status or humanitarian protection in the UK.
+
+Additionally, the parent must show they can support and accommodate the child without recourse to public funds, and there must be evidence of a genuine parental relationship. If only one parent is in the UK, they must generally have sole responsibility for the child or there must be serious or compelling family or other considerations.
+
+Applications are made online and supporting documents must be provided.
+Evaluation: Score=2.76/5, Similarity=0.452, Key Points Covered=1/3
+
+[Question 9/31] How can I apply as an adult dependent relative to be cared for by family in the UK?
+Fetching ChatGPT response...
+ChatGPT response: To apply as an Adult Dependent Relative (ADR) to be cared for by family in the UK, you must meet strict eligibility requirements under the UK Immigration Rules. Here's an overview of the process:
+
+### Who Can Apply
+You can apply if you are:
+- A parent, grandparent, sibling, or adult child of a person who is in the UK and is either:
+  - A British citizen,
+  - Settled in the UK (holding indefinite leave to remain or settled status),
+  - A person with protection status (refugee status or humanitarian protection).
+
+### Eligibility Requirements
+You must demonstrate that:
+1. **You require long-term personal care** due to age, illness, or disability.
+2. **You are unable to receive the required care** in your home country, either because it is not available or not affordable.
+3. **The UK-based relative is able and willing** to provide the required care and accommodation without recourse to public funds.
+
+### Application Process
+- Apply from outside the UK using the **online application form** for a family visa as an adult dependent relative.
+- Submit supporting documents, including:
+  - Medical evidence of your condition,
+  - Evidence of care needs and lack of care options in your home country,
+  - Proof of your relationship to the UK-based sponsor,
+  - Evidence of the sponsor’s immigration status and financial ability to support you.
+
+### Visa Outcome
+- If successful, you will be granted **indefinite leave to enter** the UK.
+- If your UK sponsor has limited leave (e.g., refugee status), you may be granted limited leave in line with theirs.
+
+### Important Notes
+- This route is very restrictive and has a high refusal rate.
+- You cannot switch to this visa from within the UK; you must apply from abroad.
+
+For full guidance and to apply, visit the official UK government website:  
+[https://www.gov.uk/uk-family-visa/adult-dependent](https://www.gov
+Evaluation: Score=2.79/5, Similarity=0.457, Key Points Covered=1/3
+
+[Question 10/31] What is the private life route and who is eligible to apply?
+Fetching ChatGPT response...
+ChatGPT response: The **Private Life route** is a UK immigration pathway for individuals who have established a private life in the UK and wish to remain based on their long residence or strong personal ties. It falls under the **Family Life as a Partner, Parent or Private Life** category in the Immigration Rules.
+
+### Who is eligible?
+
+You may be eligible to apply under the Private Life route if you are already in the UK and meet one of the following criteria:
+
+1. **Children (under 18 years old):**
+   - You have lived continuously in the UK for at least **7 years**, and
+   - It would be **unreasonable to expect you to leave** the UK.
+
+2. **Young adults (aged 18 to under 25):**
+   - You have spent **at least half your life** living continuously in the UK.
+
+3. **Adults (aged 18 or over):**
+   - You have lived continuously in the UK for **at least 20 years**, or
+   - You have lived in the UK for **less than 20 years**, but there would be **very significant obstacles** to your integration into the country you would have to return to.
+
+### Key Points:
+- Applications must be made **from within the UK**.
+- You must not fall for refusal under the **suitability requirements** (e.g., criminality or immigration breaches).
+- If successful, you will usually be granted **limited leave to remain** for **30 months** (or 60 months in some cases), with a path to **settlement** (indefinite leave to remain) after a qualifying period.
+
+For full guidance and to apply, visit the official UK government website:  
+[https://www.gov.uk/uk-family-visa/private-life](https://www.gov.uk/uk-family-visa/private-life)
+Evaluation: Score=2.88/5, Similarity=0.376, Key Points Covered=2/3
+
+[Question 11/31] What information and evidence must I provide when applying for a UK family visa?
+Fetching ChatGPT response...
+ChatGPT response: When applying for a UK family visa, you must provide specific information and evidence to support your application. The exact requirements depend on your relationship to the UK-based sponsor (e.g. spouse, fiancé(e), parent, or child), but generally include:
+
+### 1. **Proof of Relationship**
+- **Spouse/Partner**: Marriage or civil partnership certificate, or evidence of cohabitation for at least 2 years (e.g. joint bills, tenancy agreements).
+- **Fiancé(e)/Proposed Civil Partner**: Evidence of intention to marry or enter into a civil partnership within 6 months of arrival.
+- **Parent**: Birth certificate of the child and evidence of sole or shared parental responsibility.
+- **Child**: Birth certificate and evidence that the sponsoring parent is present and settled in the UK or has refugee/humanitarian protection status.
+
+### 2. **Proof of Immigration Status of Sponsor**
+- Copy of the sponsor’s British passport, settled status (e.g. Indefinite Leave to Remain), or evidence of refugee/humanitarian protection.
+
+### 3. **Financial Requirement**
+- Evidence that the sponsor meets the minimum income threshold (e.g. £18,600 for a partner, more if children are included), such as:
+  - Payslips (usually 6 months)
+  - Bank statements
+  - Employment letter
+  - Self-employment documents (if applicable)
+
+### 4. **English Language Requirement**
+- Proof that the applicant meets the English language requirement (e.g. approved English test certificate at A1 level or higher, or academic qualification taught in English).
+
+### 5. **Accommodation**
+- Evidence of adequate accommodation in the UK without recourse to public funds (e.g. tenancy agreement, property inspection report).
+
+### 6. **Tuberculosis (TB) Test Certificate**
+- Required if applying from a listed country and staying in the UK for more than 6 months.
+
+### 7. **Identity Documents
+Evaluation: Score=2.14/5, Similarity=0.328, Key Points Covered=1/3
+
+[Question 12/31] What counts as income for financial requirement purposes in UK family visa applications?
+Fetching ChatGPT response...
+ChatGPT response: For UK family visa applications (e.g., spouse or partner visas), the financial requirement typically involves meeting a minimum income threshold. The following sources can count as income:
+
+1. **Employment income** – from salaried or non-salaried employment of the applicant or their partner (if in the UK and eligible).
+2. **Self-employment income** – from the applicant or their partner.
+3. **Non-employment income** – such as:
+   - Property rental income
+   - Dividends or income from investments, stocks, or shares
+   - Interest from savings
+   - Maintenance payments
+   - Pension income
+4. **Cash savings** – if held for at least 6 months and above £16,000. Savings can be used alone or to supplement income.
+5. **Maternity, paternity, adoption, or sick pay** – statutory payments can count.
+6. **Certain benefits** – if the sponsor receives specific disability-related or carer benefits, the financial requirement is met differently (adequate maintenance instead of a fixed income threshold).
+
+The standard income threshold is £18,600 per year for a partner, with additional amounts for dependent children.
+
+All income must be evidenced with specified documents as outlined in Appendix FM-SE of the Immigration Rules.
+
+For full details, refer to official UK government guidance: https://www.gov.uk/uk-family-visa/provide-information
+Evaluation: Score=2.74/5, Similarity=0.348, Key Points Covered=2/3
+
+[Question 13/31] What are the details I must provide about my partner and our relationship in my visa application?
+Fetching ChatGPT response...
+ChatGPT response: When applying for a UK visa based on your relationship with a partner (such as a spouse, civil partner, fiancé(e), or unmarried partner), you must provide detailed information and evidence to prove the genuineness and subsistence of your relationship. The required details typically include:
+
+1. **Personal Details of Your Partner**:
+   - Full name
+   - Date of birth
+   - Nationality
+   - Passport number
+   - Address in the UK
+   - Immigration status in the UK (e.g., British citizen, settled person)
+
+2. **Relationship Details**:
+   - Type of relationship (e.g., married, civil partnership, unmarried partnership)
+   - Date and place of marriage or civil partnership (if applicable)
+   - Length of the relationship
+   - How and when you met
+   - How your relationship has developed
+   - Time spent living together (if applicable)
+   - Details of any previous marriages or relationships (for both partners)
+
+3. **Evidence of Relationship**:
+   - Marriage or civil partnership certificate (if applicable)
+   - Evidence of cohabitation (e.g., joint tenancy agreements, utility bills, bank statements)
+   - Photos together over time
+   - Communication records (emails, messages, call logs)
+   - Travel records showing visits to each other
+   - Letters of support from friends or family (optional)
+
+4. **Intentions and Future Plans**:
+   - Plans to live together permanently in the UK
+   - Where you will live in the UK
+   - How you will support yourselves financially
+
+Make sure all documents are in English or Welsh, or accompanied by certified translations. Providing accurate and thorough information helps demonstrate that your relationship meets the requirements under the Immigration Rules.
+
+For the most up-to-date and detailed guidance, refer to the official UK government website: https://www.gov.uk/uk-family-visa
+Evaluation: Score=1.87/5, Similarity=0.275, Key Points Covered=1/3
+
+[Question 14/31] What information do I need to provide about children in a UK family visa application?
+Fetching ChatGPT response...
+ChatGPT response: When applying for a UK family visa and including children in the application, you must provide the following information about each child:
+
+1. **Full name**  
+2. **Date of birth**  
+3. **Place of birth**  
+4. **Nationality**  
+5. **Passport details** (if applicable)  
+6. **Relationship to the applicant and sponsor**  
+7. **Details of who the child normally lives with**  
+8. **Details of any other people with parental responsibility**  
+9. **Consent from the other parent or guardian** (if the child is not applying with both parents)  
+10. **Evidence of sole or shared parental responsibility** (e.g., court orders, birth certificates)  
+11. **Details of the child’s current living arrangements and care**  
+12. **Information about the child’s education in the UK (if applicable)**
+
+If the child is applying as a dependent, you must also show that:
+
+- The child is under 18 at the date of application.
+- They are not leading an independent life (e.g., not married, not employed full-time, and living with the parent(s)).
+
+Supporting documents may include:
+
+- Birth certificate
+- Parental consent letters
+- Proof of address
+- Evidence of financial support and accommodation
+
+Always check the latest guidance on the UK government website or consult an immigration adviser for your specific circumstances.
+Evaluation: Score=1.74/5, Similarity=0.249, Key Points Covered=1/3
+
+[Question 15/31] What personal and travel history must I include in my application?
+Fetching ChatGPT response...
+ChatGPT response: When applying for a UK visa, you must include the following personal and travel history:
+
+**Personal History:**
+- Full name, date of birth, and nationality
+- Current and previous addresses (typically for the past 10 years)
+- Employment history, including job titles, employers, and dates
+- Education history (if relevant to the visa type)
+- Details of family members, including spouse/partner and children
+- Criminal convictions or immigration offences (if any)
+- Military service (if applicable)
+
+**Travel History:**
+- Details of international travel over the past 10 years, including:
+  - Countries visited
+  - Dates of travel
+  - Purpose of each visit
+- Previous UK visa applications and outcomes
+- Any visa refusals or deportations from the UK or other countries
+
+Ensure all information is accurate and complete, as discrepancies can lead to delays or refusal of your application.
+
+For the most accurate guidance, refer to the official UK government website: https://www.gov.uk/standard-visitor/apply-standard-visa
+Evaluation: Score=1.98/5, Similarity=0.296, Key Points Covered=1/3
+
+[Question 16/31] When do I need to prove my knowledge of English for a UK family visa?
+Fetching ChatGPT response...
+ChatGPT response: You need to prove your knowledge of English when applying for a UK family visa as a partner or spouse, fiancé(e), or parent, unless you are exempt.
+
+You must prove your knowledge of English if you are:
+
+- Applying as a partner or spouse of a British citizen or someone settled in the UK
+- Applying as a fiancé(e) or proposed civil partner
+- Applying as a parent of a child who is British or settled in the UK
+
+You can prove your knowledge of English by:
+
+- Passing an approved English language test at CEFR level A1 or higher (A2 for extensions, B1 for settlement)
+- Having a degree taught or researched in English
+- Being a national of a majority English-speaking country
+
+You are exempt if you are:
+
+- Aged under 18 or over 65
+- Have a physical or mental condition that prevents you from meeting the requirement
+- In exceptional circumstances that prevent you from meeting the requirement
+
+Always check the latest guidance on the official UK government website before applying.
+Evaluation: Score=3.07/5, Similarity=0.513, Key Points Covered=1/3
+
+[Question 17/31] How can I prove my knowledge of English when applying for a UK visa?
+Fetching ChatGPT response...
+ChatGPT response: To prove your knowledge of English when applying for a UK visa, you can do one of the following:
+
+1. **Pass an approved English language test**: Take a Secure English Language Test (SELT) from an approved provider at the required level for your visa type (e.g., IELTS for UKVI).
+
+2. **Hold a degree taught in English**: Provide a degree certificate and, if the degree was awarded outside the UK, a certificate from Ecctis (formerly UK NARIC) confirming that the qualification is equivalent to a UK degree and was taught in English.
+
+3. **Be a national of a majority English-speaking country**: If you are from a country such as the USA, Canada, Australia, or others listed by the UK Home Office, you are exempt from the English language requirement.
+
+Always check the specific English language requirements for your visa category on the official UK government website: [gov.uk](https://www.gov.uk/english-language).
+Evaluation: Score=1.77/5, Similarity=0.355, Key Points Covered=0/3
+
+[Question 18/31] What happens if I extend my visa after 2.5 years—do I need to meet a higher English level?
+Fetching ChatGPT response...
+ChatGPT response: If you are extending a visa after 2.5 years on a family or partner route (e.g., Spouse Visa), you may need to meet a higher English language requirement.
+
+For the initial visa, applicants typically need to meet **CEFR level A1** in speaking and listening.  
+For the **first extension after 2.5 years**, you must meet **CEFR level A2** in speaking and listening (if applying from within the UK).
+
+This applies to applications under Appendix FM of the Immigration Rules (e.g., spouse, partner, or parent routes).
+
+You must provide a valid English language test certificate from an approved provider unless you are exempt (e.g., from a majority English-speaking country, have a degree taught in English, or have a disability that prevents you from meeting the requirement).
+
+**Summary:** Yes, for a visa extension after 2.5 years, you generally need to meet a higher English level—**A2 CEFR**, up from A1.
+Evaluation: Score=2.88/5, Similarity=0.376, Key Points Covered=2/3
+
+[Question 19/31] Who is exempt from the English language requirement when applying for a family visa?
+Fetching ChatGPT response...
+ChatGPT response: When applying for a UK family visa, you may be exempt from the English language requirement if you meet one of the following criteria:
+
+1. **Age**: You are under 18 or over 65 years old.
+2. **Disability or Medical Condition**: You have a physical or mental condition that prevents you from meeting the requirement (must be supported by medical evidence).
+3. **Exceptional Circumstances**: There are exceptional circumstances that prevent you from meeting the requirement (assessed on a case-by-case basis).
+4. **Nationality**: You are a national of a majority English-speaking country, such as the USA, Canada, Australia, or New Zealand.
+5. **Qualifications**: You have an academic qualification that was taught or researched in English and is recognized by UK NARIC (now Ecctis) as equivalent to a UK bachelor’s degree or higher.
+
+These exemptions apply to the English language requirement for initial applications, extensions, and settlement under the family visa route. Always refer to the latest guidance from the UK Home Office for up-to-date information.
+Evaluation: Score=1.67/5, Similarity=0.235, Key Points Covered=1/3
+
+[Question 20/31] How do I apply from outside the UK as a spouse or partner?
+Fetching ChatGPT response...
+ChatGPT response: To apply from outside the UK as a spouse or partner, you must follow these steps:
+
+1. **Check Eligibility**: You must be the spouse, civil partner, fiancé(e), or unmarried partner of a British citizen or a person settled in the UK. You must both be at least 18 years old, and your relationship must be genuine and subsisting.
+
+2. **Meet the Requirements**:
+   - **Relationship**: You must be legally married or in a civil partnership, or have lived together in a relationship for at least 2 years.
+   - **Financial**: Your UK-based partner must meet the minimum income requirement (usually £18,600 per year, more if you have dependent children).
+   - **English Language**: You must prove your knowledge of English (e.g., by passing an approved English language test or having a degree taught in English).
+
+3. **Prepare Documents**: Common documents include:
+   - Valid passport
+   - Proof of relationship (e.g., marriage certificate, photos, communication)
+   - Financial evidence (e.g., payslips, bank statements)
+   - English language certificate
+   - Tuberculosis test results (if required for your country)
+
+4. **Apply Online**: Complete the online application form on the UK government website: [https://www.gov.uk/uk-family-visa/partner-spouse](https://www.gov.uk/uk-family-visa/partner-spouse)
+
+5. **Pay Fees**:
+   - Visa application fee: £1,846 (as of 2024)
+   - Immigration Health Surcharge: £1,035 per year
+
+6. **Book and Attend a Biometrics Appointment**: After submitting your application, you’ll need to attend a visa application centre in your country to provide biometric information (photo and fingerprints).
+
+7. **Wait for a Decision**: Most applications are processed within 24 weeks.
+
+Once approved, you will receive a visa to enter the UK, usually
+Evaluation: Score=2.41/5, Similarity=0.383, Key Points Covered=1/3
+
+[Question 21/31] How long can I stay in the UK on a partner or spouse visa?
+Fetching ChatGPT response...
+ChatGPT response: If you are granted a UK partner or spouse visa, you can initially stay in the UK for **2 years and 9 months**. If you apply from within the UK (switching from another visa), the initial grant is **2 years and 6 months**.
+
+Before your visa expires, you can apply to extend it for another **2 years and 6 months**. After **5 years** of continuous residence in the UK on a partner or spouse visa, you may be eligible to apply for **indefinite leave to remain (ILR)**.
+
+All stays are subject to meeting ongoing eligibility requirements, including relationship, financial, and English language criteria.
+Evaluation: Score=2.83/5, Similarity=0.465, Key Points Covered=1/3
+
+[Question 22/31] How can I extend my family visa while already in the UK?
+Fetching ChatGPT response...
+ChatGPT response: To extend your family visa while in the UK, you must:
+
+1. **Apply before your current visa expires**.
+2. **Meet the eligibility requirements**, which depend on your relationship to a:
+   - British citizen,
+   - person settled in the UK,
+   - person with refugee status or humanitarian protection.
+
+3. **Apply online** through the UK government website: [https://www.gov.uk/family-visa/extend-your-visa](https://www.gov.uk/family-visa/extend-your-visa)
+
+4. **Provide supporting documents**, such as:
+   - Proof of your relationship (e.g., marriage certificate, evidence of cohabitation),
+   - Proof you meet the financial requirement (if applicable),
+   - Proof of English language ability (if applicable).
+
+5. **Pay the application fee and the immigration health surcharge**.
+
+6. **Attend a biometric appointment** at a UKVCAS service point.
+
+You should not travel outside the UK, Ireland, the Channel Islands, or the Isle of Man while your application is being processed.
+
+For full guidance, visit the official UK government site: [https://www.gov.uk/uk-family-visa](https://www.gov.uk/uk-family-visa)
+Evaluation: Score=1.94/5, Similarity=0.287, Key Points Covered=1/3
+
+[Question 23/31] Can I switch to a family visa from another type of visa in the UK?
+Fetching ChatGPT response...
+ChatGPT response: Yes, you can switch to a family visa from another type of visa while in the UK, provided you meet the eligibility requirements and are not on a visit visa, a short-term student visa, or in the UK on immigration bail or without permission to stay.
+
+You may be eligible to switch to a family visa if you are:
+
+- the partner or spouse of a British citizen or a person settled in the UK,
+- the parent of a child who is a British citizen or has settled status,
+- applying based on your private life in the UK.
+
+You must apply before your current visa expires. Applications are made online, and you may need to attend a biometric appointment.
+
+For full guidance, visit the official UK government website: [https://www.gov.uk/family-visa](https://www.gov.uk/family-visa).
+Evaluation: Score=2.67/5, Similarity=0.434, Key Points Covered=1/3
+
+[Question 24/31] What fees are involved in applying for a family visa, and can I get a fee waiver?
+Fetching ChatGPT response...
+ChatGPT response: As of 2024, the fees for applying for a UK family visa from outside the UK are:
+
+- **£1,846** for each applicant.
+
+If you are applying from **within the UK** to extend or switch to a family visa, the fee is:
+
+- **£1,048** per applicant.
+
+Additional costs may include:
+
+- **Immigration Health Surcharge (IHS):** £1,035 per year (usually paid upfront for 2.5 years = £2,587.50).
+- **Biometric enrolment fee:** Usually included, but may vary depending on the location.
+
+### Fee Waiver
+
+You may be eligible for a **fee waiver** if you are applying from **within the UK** and cannot afford the application fee or the IHS. You must show that:
+
+- You do not have adequate accommodation or cannot meet your essential living needs.
+- Paying the fee would mean you could no longer afford these needs.
+
+Fee waivers are generally available for applications based on:
+
+- Human rights (e.g., Article 8 – right to family/private life).
+- Family and private life routes (Appendix FM or Part 7 of the Immigration Rules).
+
+**Note:** Fee waivers are **not available** for applications made from **outside the UK**.
+
+For the most up-to-date information, visit the official UK government website: [www.gov.uk](https://www.gov.uk).
+Evaluation: Score=1.53/5, Similarity=0.206, Key Points Covered=1/3
+
+[Question 25/31] What is the healthcare surcharge and how much is it for adults and children?
+Fetching ChatGPT response...
+ChatGPT response: The healthcare surcharge, officially known as the **Immigration Health Surcharge (IHS)**, is a fee that most UK visa applicants must pay as part of their immigration application. It allows access to the National Health Service (NHS) in the UK.
+
+### Current Rates (as of June 2024):
+- **Adults (18 and over):** £624 per year
+- **Children (under 18):** £470 per year
+
+### Key Points:
+- The surcharge is paid upfront for the total length of the visa.
+- For example, a 3-year visa for an adult would incur a surcharge of **£1,872** (3 × £624).
+- Some applicants are exempt, such as those applying for a Health and Care Worker visa or asylum seekers.
+
+You can check the exact amount using the [official IHS calculator](https://www.gov.uk/healthcare-immigration-application) on GOV.UK.
+Evaluation: Score=2.56/5, Similarity=0.412, Key Points Covered=1/3
+
+[Question 26/31] When can I settle permanently (get indefinite leave to remain) on a family visa?
+Fetching ChatGPT response...
+ChatGPT response: You may be eligible to apply for Indefinite Leave to Remain (ILR) on a family visa after living in the UK for **5 or 10 years**, depending on your visa route. The most common routes are:
+
+### 5-Year Route:
+You can apply for ILR after **5 years** if you are in the UK as a partner or spouse of a British citizen or someone settled in the UK and you meet all the requirements throughout the period, including:
+- Continuous residence in the UK for 5 years on a family visa (as a partner).
+- Meeting the financial requirement.
+- Meeting the English language requirement.
+- Passing the Life in the UK Test.
+
+### 10-Year Route:
+If you do not meet the financial or other requirements for the 5-year route, you may be on a **10-year route** to settlement. You can apply for ILR after **10 years of continuous lawful residence** in the UK under family and/or other visa categories.
+
+Always check the specific requirements for your visa route on the official UK government website: [gov.uk/indefinite-leave-to-remain](https://www.gov.uk/indefinite-leave-to-remain).
+Evaluation: Score=2.64/5, Similarity=0.328, Key Points Covered=2/3
+
+[Question 27/31] Can I apply to stay if I was a victim of domestic abuse or my partner died?
+Fetching ChatGPT response...
+ChatGPT response: Yes, you may be able to apply to stay in the UK if:
+
+1. **You were on a partner visa** (such as a spouse, civil partner, or unmarried partner visa) and your relationship has ended due to domestic abuse.  
+   - You can apply for **indefinite leave to remain (ILR)** under the domestic violence concession.
+   - You must provide evidence of the abuse and that the relationship has broken down permanently.
+
+2. **Your partner has died** and you were on a partner visa at the time.  
+   - You may be eligible to apply for **indefinite leave to remain** as a bereaved partner.
+   - You must have been in a genuine and subsisting relationship at the time of your partner’s death.
+
+In both cases, you must have had permission to stay in the UK as the partner of a British citizen or someone settled in the UK.
+
+For full eligibility and application details, visit the official UK government website: [gov.uk](https://www.gov.uk/).
+Evaluation: Score=2.05/5, Similarity=0.410, Key Points Covered=0/3
+
+[Question 28/31] What if my family member is a refugee—can I apply under family reunion rules?
+Fetching ChatGPT response...
+ChatGPT response: Yes, if your family member is a refugee in the UK, you may be able to apply to join them under the Family Reunion rules.
+
+**Eligibility:**
+You can apply if you are:
+- The **spouse or civil partner** of the refugee, or
+- The **child under 18** of the refugee
+
+You must have been part of the refugee’s family unit **before they fled their country**.
+
+**Important Notes:**
+- The refugee must have been granted **refugee status** or **humanitarian protection** in the UK.
+- You must apply from **outside the UK**.
+- There is **no application fee** for family reunion.
+
+**Other Family Members:**
+Other relatives (e.g., adult children, parents, siblings) are not usually eligible under standard family reunion rules but may apply under **exceptional circumstances** using a separate application outside the Immigration Rules.
+
+For full guidance and to apply, visit the official UK government website: [https://www.gov.uk/family-reunion](https://www.gov.uk/family-reunion)
+Evaluation: Score=2.27/5, Similarity=0.453, Key Points Covered=0/3
+
+[Question 29/31] Can I apply as a fiancé, fiancée or proposed civil partner?
+Fetching ChatGPT response...
+ChatGPT response: Yes, you can apply for a UK visa as a fiancé, fiancée, or proposed civil partner if you intend to marry or enter into a civil partnership with a British citizen or a person settled in the UK (including those with indefinite leave to remain or settled status).
+
+**Key requirements:**
+- You and your partner must both be at least 18 years old.
+- You must intend to marry or enter into a civil partnership within 6 months of arriving in the UK.
+- You must plan to live together permanently in the UK after your marriage or civil partnership.
+- Your relationship must be genuine and subsisting.
+- You must meet the financial requirement (usually a minimum income of £18,600 per year).
+- You must have suitable accommodation in the UK.
+- You must meet the English language requirement.
+
+**Visa details:**
+- The fiancé(e) or proposed civil partner visa is valid for 6 months.
+- You cannot work during this time.
+- After marrying or entering into a civil partnership, you can apply to switch to a Spouse or Civil Partner visa from within the UK.
+
+For full guidance and to apply, visit the official UK government website: [gov.uk/fiance-visa](https://www.gov.uk/fiance-visa)
+Evaluation: Score=3.68/5, Similarity=0.537, Key Points Covered=2/3
+
+[Question 30/31] What is required if I do not live together with my partner due to cultural or work reasons?
+Fetching ChatGPT response...
+ChatGPT response: If you are applying for a UK partner visa (such as a spouse or unmarried partner visa) and you do not currently live together with your partner due to cultural or work reasons, you must provide:
+
+1. **Evidence of a genuine and subsisting relationship** – You must demonstrate that your relationship is real and ongoing, even if you are not living together. This can include:
+   - Communication records (e.g., messages, call logs)
+   - Travel records showing visits to each other
+   - Photos together
+   - Joint financial responsibilities (if any)
+   - Statements from friends or family
+
+2. **Explanation for not living together** – You should provide a clear written explanation detailing the cultural or work reasons preventing cohabitation. Supporting documents (e.g., employment contracts, cultural obligations) can strengthen your case.
+
+3. **Intent to live together in the UK** – You must show that you plan to live together permanently in the UK once the visa is granted. This can include:
+   - A tenancy agreement or property ownership documents
+   - A letter from the UK-based partner confirming accommodation arrangements
+
+The Home Office will assess all evidence to determine whether the relationship meets the requirements under Appendix FM of the Immigration Rules.
+Evaluation: Score=2.05/5, Similarity=0.310, Key Points Covered=1/3
+
+[Question 31/31] How do I prove I’m taking an active role in raising my child if applying as a parent?
+Fetching ChatGPT response...
+ChatGPT response: To prove you are taking an active role in raising your child when applying for a UK Parent visa, you must provide evidence that demonstrates your ongoing involvement in the child’s life. According to official UK government guidance, acceptable evidence may include:
+
+- **Letters from the child’s school** confirming your involvement in their education (e.g. attending parent evenings).
+- **Official letters from a local authority or health professional** showing your role in the child’s upbringing.
+- **Court orders or legal agreements** outlining parental responsibilities.
+- **Evidence of regular contact** with the child, such as:
+  - Photos together
+  - Travel records
+  - Communication logs (e.g. emails, messages)
+- **Financial support evidence**, such as bank statements showing payments for the child’s needs.
+- **Statements from the other parent or guardian** confirming your involvement.
+
+You must also show that you either:
+- Have sole or shared parental responsibility, or
+- The child normally lives with you or you have direct access (in person) as agreed with the other parent or by a court order.
+
+All evidence should be credible, consistent, and clearly demonstrate your active role in the child’s upbringing.
+Evaluation: Score=2.12/5, Similarity=0.325, Key Points Covered=1/3
+
+Results saved to:
+  - chatgpt_test_logs\chatgpt_uk_immigration_test_results.csv
+  - chatgpt_test_logs\chatgpt_uk_immigration_test_results.json

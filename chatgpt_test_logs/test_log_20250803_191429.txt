@@ -1,0 +1,215 @@
+ChatGPT API Test Log - 2025-08-03 19:14:29.238576
+API Key: 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
+Total Questions: 40
+
+
+[Question 1/40] How do I apply for the Uk Family Visa?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a UK Family Visa, you must complete the online application form, pay the visa fee, and provide your biometric information (fingerprints and photograph). You will also need to provide supporting documents to prove your relationship, financial circumstances, and accommodation arrangements.
+Evaluation: Score=1.57/5, Similarity=0.315, Key Points Covered=0/3
+
+[Question 2/40] How do I apply for the Graduate Visa?
+Fetching ChatGPT response...
+ChatGPT response: You can apply for the Graduate Visa if you have successfully completed a degree at undergraduate level or above in the UK from a Student or Child Student visa.
+Evaluation: Score=0.95/5, Similarity=0.191, Key Points Covered=0/3
+
+[Question 3/40] What are the eligibility requirements for the Health Care Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: To be eligible for a Health and Care Worker visa, you must: have a valid certificate of sponsorship for your job have a job offer from a UK employer that holds a sponsor licence do a job that's on the list of eligible occupations have a good knowledge of English
+Evaluation: Score=0.88/5, Similarity=0.076, Key Points Covered=1/3
+
+[Question 4/40] How long can I stay in the UK with the Health Care Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: You can stay in the UK for up to 5 years with the Health Care Worker Visa.
+Evaluation: Score=2.09/5, Similarity=0.418, Key Points Covered=0/3
+
+[Question 5/40] What are the eligibility requirements for the Health Care Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: To be eligible for the Health and Care Worker Visa, you must: be a qualified doctor, nurse, health professional or adult social care professional have a job offer from the NHS, an NHS supplier or a registered adult social care provider in the UK be able to speak, read, write and understand English meet the other eligibility requirements
+Evaluation: Score=2.03/5, Similarity=0.306, Key Points Covered=1/3
+
+[Question 6/40] How do I apply for the Health Care Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: To apply for the Health Care Worker Visa, you must: have a valid certificate of sponsorship for your job, prove your knowledge of English, and be paid a salary of at least £20,480.
+Evaluation: Score=1.44/5, Similarity=0.188, Key Points Covered=1/3
+
+[Question 7/40] How long can I stay in the UK with the Graduate Visa?
+Fetching ChatGPT response...
+ChatGPT response: The Graduate Visa allows you to stay in the UK for 2 years after completing your course.
+Evaluation: Score=0.86/5, Similarity=0.171, Key Points Covered=0/3
+
+[Question 8/40] How do I apply for the Skilled Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: You can apply for a Skilled Worker visa if you’ve been offered a skilled job in the UK.
+Evaluation: Score=1.07/5, Similarity=0.214, Key Points Covered=0/3
+
+[Question 9/40] What are the costs associated with the Uk Family Visa?
+Fetching ChatGPT response...
+ChatGPT response: The cost of a UK Family Visa depends on the specific visa type and the applicant's circumstances. As of 2021, the fees for the most common family visas are as follows: Spouse, civil partner, or partner: £1,523. Parent of a British citizen or settled person: £3,250. Adult dependent relative: £3,250. These fees are subject to change, so it's important to check the latest fees before applying.
+Evaluation: Score=0.4/5, Similarity=0.080, Key Points Covered=0/3
+
+[Question 10/40] What are the eligibility requirements for the Standard Visitor?
+Fetching ChatGPT response...
+ChatGPT response: To be eligible for a Standard Visitor visa, you must: prove that you’ll leave the UK at the end of your visit have enough money to support yourself without working or help from public funds, or that relatives and friends can support and house you can meet the cost of the return or onward journey not be in transit to a country outside the UK, Ireland, Isle of Man and the Channel Islands have proof of any business or other activities you want to do in the UK, as allowed by the Visitor Rules
+Evaluation: Score=2.98/5, Similarity=0.495, Key Points Covered=1/3
+
+[Question 11/40] What are the eligibility requirements for the Innovator Visa?
+Fetching ChatGPT response...
+ChatGPT response: To be eligible for an Innovator Visa, you must:
+
+- have at least £50,000 in investment funds if you want to set up a new business (or have already invested £50,000 in a UK business if you’re applying for an extension)
+- be endorsed by an approved UK endorsing body
+- be able to speak, read and write English to the required standard
+Evaluation: Score=0.87/5, Similarity=0.073, Key Points Covered=1/3
+
+[Question 12/40] How long can I stay in the UK with the Innovator Visa?
+Fetching ChatGPT response...
+ChatGPT response: You can stay for 3 years with the Innovator Visa. After this time you can apply to extend for another 3 years or apply for settlement (also known as ‘indefinite leave to remain’).
+Evaluation: Score=2.13/5, Similarity=0.326, Key Points Covered=1/3
+
+[Question 13/40] What are the costs associated with the Join Family In Uk?
+Fetching ChatGPT response...
+ChatGPT response: Fees for a Join Family in the UK visa depend on the type of visa you're applying for. A standard Join Family in the UK visa costs £1,523. A Join Family in the UK visa for a child under 18 costs £1,023.
+Evaluation: Score=0.87/5, Similarity=0.174, Key Points Covered=0/3
+
+[Question 14/40] What documents are required for the Health Care Worker Visa application?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a Health and Care Worker Visa, you’ll need to provide: a current tuberculosis (TB) test result if you’re from a country where you have to take the test a criminal record certificate from any country you’ve lived in for 12 months or more in the last 10 years - unless you’re applying as a: healthcare scientist, medical practitioner, nurse, occupational therapist, ophthalmologist, paramedic, pharmacist, physiotherapist, psychologist, radiographer, social worker, speech and language therapist, therapy professional, or midwife, and you’ve been registered to practice in the UK for 6 months or more
+Evaluation: Score=1.25/5, Similarity=0.150, Key Points Covered=1/3
+
+[Question 15/40] How do I apply for the Skilled Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a Skilled Worker Visa, you must have a job offer from a UK employer that holds a valid Skilled Worker Sponsor License. You also need to meet the English language requirement and the minimum salary requirement for the job. Additionally, you must score a total of 70 points on the Skilled Worker Visa points-based system.
+Evaluation: Score=1.67/5, Similarity=0.233, Key Points Covered=1/3
+
+[Question 16/40] How do I apply for the Skilled Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: You can apply for a Skilled Worker visa if you’ve been offered a skilled job in the UK and you’re from outside the European Economic Area (EEA) and Switzerland.
+Evaluation: Score=1.45/5, Similarity=0.291, Key Points Covered=0/3
+
+[Question 17/40] What are the eligibility requirements for the Uk Family Visa?
+Fetching ChatGPT response...
+ChatGPT response: To be eligible for a family visa, you must be one of the following:
+
+the spouse, partner or dependent child of a British citizen or person with settled status
+the dependent child of a person who has refugee status or humanitarian protection
+Evaluation: Score=1.43/5, Similarity=0.186, Key Points Covered=1/3
+
+[Question 18/40] What are the costs associated with the Uk Family Visa?
+Fetching ChatGPT response...
+ChatGPT response: The cost of a UK Family Visa depends on the type of visa you are applying for and where you are applying from. As of 2021, the fees are as follows: Spouse, civil or unmarried partner: £1,523; Fiancé(e) or proposed civil partner: £1,523; Dependent child: £1,023; Adult dependent relative: £3,250.
+Evaluation: Score=1.37/5, Similarity=0.175, Key Points Covered=1/3
+
+[Question 19/40] How long can I stay in the UK with the Join Family In Uk?
+Fetching ChatGPT response...
+ChatGPT response: You can stay in the UK for up to 6 months with a join family visa.
+Evaluation: Score=0.58/5, Similarity=0.117, Key Points Covered=0/3
+
+[Question 20/40] How long can I stay in the UK with the Uk Family Visa?
+Fetching ChatGPT response...
+ChatGPT response: You can stay in the UK for up to 2 years and 6 months on a Family Visa.
+Evaluation: Score=2.16/5, Similarity=0.333, Key Points Covered=1/3
+
+[Question 21/40] What documents are required for the Innovator Visa application?
+Fetching ChatGPT response...
+ChatGPT response: When you apply for an Innovator Visa, you’ll need to provide: a current passport or other valid travel identification evidence of investment funds bank statements or other evidence to show you can support yourself in the UK endorsement letter from an approved endorsing body, which confirms your business idea is innovative, viable and scalable
+Evaluation: Score=0.83/5, Similarity=0.166, Key Points Covered=0/3
+
+[Question 22/40] What are the eligibility requirements for the Innovator Visa?
+Fetching ChatGPT response...
+ChatGPT response: To qualify for an Innovator visa, you must: have at least £50,000 in investment funds if you want to set up a new business (or have already invested £50,000 in a UK business) be endorsed by an approved UK endorsing body be able to speak, read and write English to the required level
+Evaluation: Score=2.22/5, Similarity=0.343, Key Points Covered=1/3
+
+[Question 23/40] What are the eligibility requirements for the Skilled Worker Visa?
+Fetching ChatGPT response...
+API call error: 'APITimeoutError' object has no attribute 'status_code'
+Evaluation: Score=0.0/5, Similarity=0.000, Key Points Covered=0/3
+
+[Question 24/40] What are the eligibility requirements for the Standard Visitor?
+Fetching ChatGPT response...
+ChatGPT response: To be eligible for a Standard Visitor visa, you must show that: you’ll leave the UK at the end of your visit, you’re able to support yourself and your dependents during your trip, you’re able to pay for your return or onward journey and any other costs relating to your visit, you have proof of any business or other activities you want to do in the UK, as allowed by the Visitor Rules
+Evaluation: Score=2.52/5, Similarity=0.405, Key Points Covered=1/3
+
+[Question 25/40] How do I apply for the Health Care Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: To apply for the Health Care Worker Visa, you must have a job offer and a certificate of sponsorship from a UK employer that holds a Tier 2 (General) sponsor licence. You must also meet the other eligibility requirements, including English language proficiency and financial requirements.
+Evaluation: Score=1.09/5, Similarity=0.217, Key Points Covered=0/3
+
+[Question 26/40] How do I apply for the Standard Visitor?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a Standard Visitor visa, you must apply online.
+Evaluation: Score=2.21/5, Similarity=0.442, Key Points Covered=0/3
+
+[Question 27/40] What are the costs associated with the Innovator Visa?
+Fetching ChatGPT response...
+ChatGPT response: The Innovator Visa costs £1,021 for the main applicant and each dependent. There is also a healthcare surcharge and the applicant will need to pay £1,277 per year for each person on the application.
+Evaluation: Score=1.85/5, Similarity=0.169, Key Points Covered=2/3
+
+[Question 28/40] How do I apply for the Standard Visitor?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a Standard Visitor visa, you must apply online and provide your fingerprints and a photo (biometric information) at a visa application centre.
+Evaluation: Score=1.67/5, Similarity=0.234, Key Points Covered=1/3
+
+[Question 29/40] What are the costs associated with the Standard Visitor?
+Fetching ChatGPT response...
+ChatGPT response: The cost of a Standard Visitor visa depends on its length and where you apply from. It ranges from £95 for a 6 month visa to £822 for a 10 year visa.
+Evaluation: Score=2.35/5, Similarity=0.271, Key Points Covered=2/3
+
+[Question 30/40] What documents are required for the Graduate Visa application?
+Fetching ChatGPT response...
+ChatGPT response: You’ll need to provide: a current passport or other valid travel identification evidence of your finances evidence of your English language qualification, if you need to provide it your tuberculosis (TB) test results, if you’re from a country where you have to take the test
+Evaluation: Score=1.15/5, Similarity=0.230, Key Points Covered=0/3
+
+[Question 31/40] How long can I stay in the UK with the Student Visa?
+Fetching ChatGPT response...
+ChatGPT response: You can stay in the UK with a Student Visa for the full length of your course, plus a few months extra (usually four months) at the end.
+Evaluation: Score=2.19/5, Similarity=0.339, Key Points Covered=1/3
+
+[Question 32/40] How do I apply for the Innovator Visa?
+Fetching ChatGPT response...
+ChatGPT response: To apply for an Innovator Visa, you must be endorsed by an approved UK endorsing body. You must also meet the other eligibility requirements, including having at least £50,000 in investment funds if you want to set up a new business, and proving your knowledge of English.
+Evaluation: Score=1.17/5, Similarity=0.233, Key Points Covered=0/3
+
+[Question 33/40] How long can I stay in the UK with the Join Family In Uk?
+Fetching ChatGPT response...
+ChatGPT response: You can stay in the UK for up to 6 months with a join family visa.
+Evaluation: Score=2.25/5, Similarity=0.349, Key Points Covered=1/3
+
+[Question 34/40] How do I apply for the Skilled Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a Skilled Worker Visa, you must have a job offer from a UK employer that holds a Skilled Worker Sponsor License. You must also meet the English language requirement and the minimum salary requirement for the job. Additionally, you must score a total of 70 points under the points-based immigration system.
+Evaluation: Score=1.25/5, Similarity=0.150, Key Points Covered=1/3
+
+[Question 35/40] How long can I stay in the UK with the Student Visa?
+Fetching ChatGPT response...
+ChatGPT response: You can stay in the UK with a Student Visa for the full length of your course, plus a few months extra (usually 4 months) depending on the length of your course.
+Evaluation: Score=2.32/5, Similarity=0.465, Key Points Covered=0/3
+
+[Question 36/40] How do I apply for the Health Care Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: You can apply for a Health and Care Worker visa if you’re a qualified doctor, nurse, health professional or adult social care professional and you have a job offer from the NHS or an eligible employer in the UK.
+Evaluation: Score=1.13/5, Similarity=0.226, Key Points Covered=0/3
+
+[Question 37/40] How long can I stay in the UK with the Uk Family Visa?
+Fetching ChatGPT response...
+ChatGPT response: You can stay in the UK for up to 2 years and 6 months on a Family Visa.
+Evaluation: Score=2.03/5, Similarity=0.407, Key Points Covered=0/3
+
+[Question 38/40] How do I apply for the Join Family In Uk?
+Fetching ChatGPT response...
+ChatGPT response: You can apply for a visa to join your partner, child, or other family member who’s living in the UK.
+Evaluation: Score=2.32/5, Similarity=0.465, Key Points Covered=0/3
+
+[Question 39/40] What are the eligibility requirements for the Student Visa?
+Fetching ChatGPT response...
+ChatGPT response: To be eligible for a Student Visa, you must have been offered a place on a course, be able to speak, read, write and understand English, and have enough money to support yourself and pay for your course.
+Evaluation: Score=1.42/5, Similarity=0.183, Key Points Covered=1/3
+
+[Question 40/40] What are the eligibility requirements for the Student Visa?
+Fetching ChatGPT response...
+ChatGPT response: To be eligible for a Student Visa, you must have been offered a place on a course, be able to speak, read, write and understand English, and have enough money to support yourself and pay for your course.
+Evaluation: Score=1.23/5, Similarity=0.146, Key Points Covered=1/3
+
+Results saved to:
+  - chatgpt_test_logs\chatgpt_uk_immigration_test_results.csv
+  - chatgpt_test_logs\chatgpt_uk_immigration_test_results.json

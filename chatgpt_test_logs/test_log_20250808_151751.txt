@@ -1,0 +1,163 @@
+ChatGPT API Test Log - 2025-08-08 15:17:51.712641
+API Key: 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
+Total Questions: 31
+
+
+[Question 1/31] Can my partner and children join me in the UK while I study?
+Fetching ChatGPT response...
+ChatGPT response: Yes, your partner and children may be able to join you in the UK while you study on a Tier 4 (General) student visa.
+Evaluation: Score=1.71/5, Similarity=0.343, Key Points Covered=0/3
+
+[Question 2/31] How can I extend my student visa to continue studying in the UK?
+Fetching ChatGPT response...
+ChatGPT response: You can apply to extend your student visa if you are already in the UK with a valid student visa. You must meet the eligibility requirements and apply before your current visa expires.
+Evaluation: Score=2.91/5, Similarity=0.483, Key Points Covered=1/3
+
+[Question 3/31] Can I switch to a Student visa if I’m already in the UK on another visa?
+Fetching ChatGPT response...
+ChatGPT response: Yes, you can switch to a Student visa from most other visas if you meet the eligibility requirements.
+Evaluation: Score=2.39/5, Similarity=0.377, Key Points Covered=1/3
+
+[Question 4/31] What are the basic requirements for a family visa to live with a family member in the UK for over 6 months?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a family visa, you and your family member must meet certain eligibility requirements. You must be able to prove one of the following: you have a spouse or partner who is a British citizen or settled in the UK; you have a parent, grandparent, brother, sister, son or daughter who is a British citizen or settled in the UK; you have a relative who is present and settled in the UK, or has refugee status or humanitarian protection in the UK.
+Evaluation: Score=2.15/5, Similarity=0.330, Key Points Covered=1/3
+
+[Question 5/31] How can I apply as a partner or spouse of someone settled in the UK?
+Fetching ChatGPT response...
+ChatGPT response: You can apply for a family visa as a partner or spouse of someone settled in the UK.
+Evaluation: Score=0.89/5, Similarity=0.179, Key Points Covered=0/3
+
+[Question 6/31] What are the financial requirements for applying as a partner or spouse?
+Fetching ChatGPT response...
+ChatGPT response: You and your partner must have a combined income of at least £18,600 per year, with additional income required for any children.
+Evaluation: Score=3.77/5, Similarity=0.453, Key Points Covered=3/3
+
+[Question 7/31] How can I apply to live in the UK as a parent of a child in the UK?
+Fetching ChatGPT response...
+ChatGPT response: You can apply for a Parent of a Tier 4 child visa if your child is studying in the UK and is under 12 years old, or if they are over 12 and studying at an independent school.
+Evaluation: Score=1.86/5, Similarity=0.373, Key Points Covered=0/3
+
+[Question 8/31] Can a child apply to join their parent in the UK under the family visa route?
+Fetching ChatGPT response...
+ChatGPT response: Yes, a child can apply to join their parent in the UK under the family visa route.
+Evaluation: Score=2.18/5, Similarity=0.436, Key Points Covered=0/3
+
+[Question 9/31] How can I apply as an adult dependent relative to be cared for by family in the UK?
+Fetching ChatGPT response...
+ChatGPT response: You can apply to join a relative in the UK as an adult dependent relative if you need long-term care and your sponsor is a British citizen, settled person, person with refugee leave or humanitarian protection.
+Evaluation: Score=2.58/5, Similarity=0.416, Key Points Covered=1/3
+
+[Question 10/31] What is the private life route and who is eligible to apply?
+Fetching ChatGPT response...
+ChatGPT response: The private life route is for people who have been living in the UK for a long time and want to apply to stay on the basis of their private life. You may be eligible if you have lived continuously in the UK for at least 20 years, or you are under 18 years old and have lived continuously in the UK for at least 7 years and it would not be reasonable to expect you to leave the UK.
+Evaluation: Score=2.24/5, Similarity=0.347, Key Points Covered=1/3
+
+[Question 11/31] What information and evidence must I provide when applying for a UK family visa?
+Fetching ChatGPT response...
+ChatGPT response: You must provide a valid passport or other travel document, proof of your relationship to the person you are joining, proof that you meet the financial requirement, and proof of knowledge of English.
+Evaluation: Score=2.53/5, Similarity=0.406, Key Points Covered=1/3
+
+[Question 12/31] What counts as income for financial requirement purposes in UK family visa applications?
+Fetching ChatGPT response...
+ChatGPT response: Income from employment or self-employment, non-employment income such as property rental or dividends, cash savings, and pension income can all count towards meeting the financial requirement for UK family visa applications.
+Evaluation: Score=2.55/5, Similarity=0.410, Key Points Covered=1/3
+
+[Question 13/31] What are the details I must provide about my partner and our relationship in my visa application?
+Fetching ChatGPT response...
+ChatGPT response: You must provide details about your partner's name, date of birth, nationality, and passport number. You must also provide evidence of your relationship, such as joint financial documents, correspondence, and photographs.
+Evaluation: Score=2.11/5, Similarity=0.322, Key Points Covered=1/3
+
+[Question 14/31] What information do I need to provide about children in a UK family visa application?
+Fetching ChatGPT response...
+ChatGPT response: You need to provide the child's full name, date of birth, place of birth, and their current passport or travel document details.
+Evaluation: Score=1.45/5, Similarity=0.190, Key Points Covered=1/3
+
+[Question 15/31] What personal and travel history must I include in my application?
+Fetching ChatGPT response...
+ChatGPT response: You must include details of your travel history for the last 10 years, including countries visited, dates of visit, and reasons for visit.
+Evaluation: Score=1.38/5, Similarity=0.176, Key Points Covered=1/3
+
+[Question 16/31] When do I need to prove my knowledge of English for a UK family visa?
+Fetching ChatGPT response...
+ChatGPT response: You need to prove your knowledge of English if you’re applying as the partner, parent or dependent child of a UK citizen or settled person.
+Evaluation: Score=2.4/5, Similarity=0.381, Key Points Covered=1/3
+
+[Question 17/31] How can I prove my knowledge of English when applying for a UK visa?
+Fetching ChatGPT response...
+ChatGPT response: You can prove your knowledge of English by providing evidence of having passed an approved English language test with at least CEFR level A1 in speaking and listening.
+Evaluation: Score=1.94/5, Similarity=0.387, Key Points Covered=0/3
+
+[Question 18/31] What happens if I extend my visa after 2.5 years—do I need to meet a higher English level?
+Fetching ChatGPT response...
+ChatGPT response: Yes, you must meet the English language requirement at level B1 if you are applying to extend your visa after 2.5 years.
+Evaluation: Score=2.46/5, Similarity=0.292, Key Points Covered=2/3
+
+[Question 19/31] Who is exempt from the English language requirement when applying for a family visa?
+Fetching ChatGPT response...
+ChatGPT response: You may be exempt from the English language requirement if you are aged 65 or over, have a disability that prevents you from meeting the requirement, or are a national of a majority English-speaking country.
+Evaluation: Score=1.55/5, Similarity=0.310, Key Points Covered=0/3
+
+[Question 20/31] How do I apply from outside the UK as a spouse or partner?
+Fetching ChatGPT response...
+ChatGPT response: You can apply online for a family visa to join your partner if they’re in the UK.
+Evaluation: Score=0.96/5, Similarity=0.191, Key Points Covered=0/3
+
+[Question 21/31] How long can I stay in the UK on a partner or spouse visa?
+Fetching ChatGPT response...
+ChatGPT response: You can stay in the UK for 2 years and 6 months on a partner or spouse visa, and then apply to extend it for another 2 years and 6 months.
+Evaluation: Score=3.09/5, Similarity=0.519, Key Points Covered=1/3
+
+[Question 22/31] How can I extend my family visa while already in the UK?
+Fetching ChatGPT response...
+ChatGPT response: You can apply to extend your family visa as a partner, spouse, or dependent child if you are already in the UK.
+Evaluation: Score=1.61/5, Similarity=0.323, Key Points Covered=0/3
+
+[Question 23/31] Can I switch to a family visa from another type of visa in the UK?
+Fetching ChatGPT response...
+ChatGPT response: Yes, you can switch to a family visa from another type of visa if you meet the eligibility requirements.
+Evaluation: Score=2.55/5, Similarity=0.409, Key Points Covered=1/3
+
+[Question 24/31] What fees are involved in applying for a family visa, and can I get a fee waiver?
+Fetching ChatGPT response...
+ChatGPT response: The fees for a family visa application depend on the type of visa you are applying for and where you are applying from. As of 2021, the application fee for a family visa ranges from £1,523 to £3,250. There is also a healthcare surcharge of £624 per year. Fee waivers are not generally available for family visa applications.
+Evaluation: Score=1.36/5, Similarity=0.173, Key Points Covered=1/3
+
+[Question 25/31] What is the healthcare surcharge and how much is it for adults and children?
+Fetching ChatGPT response...
+ChatGPT response: The healthcare surcharge is a payment required for non-EEA nationals coming to the UK for more than 6 months to work, study or join family. The surcharge is £624 per year for adults and £470 per year for children.
+Evaluation: Score=2.73/5, Similarity=0.446, Key Points Covered=1/3
+
+[Question 26/31] When can I settle permanently (get indefinite leave to remain) on a family visa?
+Fetching ChatGPT response...
+ChatGPT response: You can settle permanently in the UK on a family visa after living in the UK for 5 years, as long as you meet the eligibility requirements.
+Evaluation: Score=1.81/5, Similarity=0.162, Key Points Covered=2/3
+
+[Question 27/31] Can I apply to stay if I was a victim of domestic abuse or my partner died?
+Fetching ChatGPT response...
+ChatGPT response: Yes, you may be eligible to apply for settlement (also known as indefinite leave to remain) if you are in the UK on a spouse, partner or dependent visa and your relationship has broken down because of domestic violence or your partner has died.
+Evaluation: Score=2.16/5, Similarity=0.431, Key Points Covered=0/3
+
+[Question 28/31] What if my family member is a refugee—can I apply under family reunion rules?
+Fetching ChatGPT response...
+ChatGPT response: Yes, you can apply to join your refugee family member in the UK if they were granted asylum or humanitarian protection in the UK.
+Evaluation: Score=2.01/5, Similarity=0.403, Key Points Covered=0/3
+
+[Question 29/31] Can I apply as a fiancé, fiancée or proposed civil partner?
+Fetching ChatGPT response...
+ChatGPT response: Yes, you can apply for a visa to marry your partner in the UK if you and your partner are 18 or over, intend to marry within 6 months of your arrival, and meet the other eligibility requirements.
+Evaluation: Score=2.77/5, Similarity=0.354, Key Points Covered=2/3
+
+[Question 30/31] What is required if I do not live together with my partner due to cultural or work reasons?
+Fetching ChatGPT response...
+ChatGPT response: If you do not live together with your partner due to cultural or work reasons, you may be able to provide evidence of this arrangement to satisfy the cohabitation requirement for a partner visa.
+Evaluation: Score=1.71/5, Similarity=0.241, Key Points Covered=1/3
+
+[Question 31/31] How do I prove I’m taking an active role in raising my child if applying as a parent?
+Fetching ChatGPT response...
+ChatGPT response: You can prove you’re taking an active role in raising your child if you have shared responsibility for your child’s upbringing, and are in regular contact with them.
+Evaluation: Score=1.09/5, Similarity=0.218, Key Points Covered=0/3
+
+Results saved to:
+  - chatgpt_test_logs\chatgpt_uk_immigration_test_results.csv
+  - chatgpt_test_logs\chatgpt_uk_immigration_test_results.json

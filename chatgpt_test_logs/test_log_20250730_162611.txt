@@ -1,0 +1,945 @@
+ChatGPT API Test Log - 2025-07-30 16:26:11.971867
+API Key: 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
+Total Questions: 40
+
+
+[Question 1/40] How do I apply for the Uk Family Visa?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a UK Family Visa, you need to meet specific eligibility criteria, provide required documents, and be aware of the associated fees and processing times. Here’s a detailed breakdown based on the 2025 official GOV.UK guidelines:
+
+### 1. Eligibility Criteria
+- **Relationship to a UK Resident**: You must be a spouse, fiancé(e), partner, child, parent, or a dependent adult relative of someone who is a British citizen, has settled in the UK, has refugee status or humanitarian protection in the UK.
+- **Financial Requirement**: You must prove that your partner or sponsor in the UK meets a minimum income threshold of £18,600 per annum or has enough savings to support you. The threshold increases if also sponsoring dependent children.
+- **English Language Requirement**: You need to prove your knowledge of English, usually by passing an approved English language test at CEFR level A1 for partners and A2 for parents, unless you are exempt.
+- **Relationship Status**: You must prove that your relationship is genuine and recognized in the UK (e.g., marriage, civil partnership, or proof of cohabitation for unmarried partners).
+
+### 2. Required Documents
+- **Proof of Relationship**: Marriage certificate, civil partnership certificate, proof of cohabitation, etc.
+- **Financial Evidence**: Bank statements, salary slips, employment details, and other documents to prove the financial requirement.
+- **English Language Proficiency**: Certificate from an approved test provider.
+- **Accommodation Details**: Evidence of adequate accommodation in the UK.
+- **Passport and Previous Travel**: Valid passport and travel history.
+- **Application Form**: Completed online application form specific to the family visa category.
+
+### 3. Fees and Processing Time
+- **Fees**: The application fee varies depending on the relationship:
+  - Partner or spouse: Approximately £1,523 if applying from outside the UK, £1,033 if extending or switching within the UK.
+  - F
+Evaluation: Score=1.49/5, Similarity=0.299, Key Points Covered=0/3
+
+[Question 2/40] How do I apply for the Graduate Visa?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, the Graduate Visa in the UK allows international students who have completed a degree at a UK higher education provider to stay in the UK to work, or look for work, at any skill level for a period of time. Here are the details regarding the application process:
+
+### 1. Eligibility Criteria:
+- **Completion of a Qualifying Course**: You must have completed an eligible course at a UK higher education provider, with a track record of compliance with the government's immigration requirements.
+- **Valid Student Visa**: You must be in the UK and hold a valid Student visa at the time of application.
+- **Qualification Obtained**: You must have successfully completed the course that was the basis of your Student visa application.
+- **Higher Education Provider with Compliance**: Your education provider must be a licensed student sponsor and have notified the Home Office that you’ve successfully completed your course.
+
+### 2. Required Documents:
+- **Passport or other valid travel ID**: To prove your identity and nationality.
+- **Biometric Residence Permit (if applicable)**: If you already have one from your Student visa.
+- **Proof of Qualification**: Usually, your education provider will notify the Home Office directly. However, you may need to provide proof that you’ve successfully completed your course.
+- **CAS (Confirmation of Acceptance for Studies) Document**: Used in your previous Student visa application, this may be required for reference.
+
+### 3. Fees and Processing Time:
+- **Application Fee**: As of 2025, the fee for the Graduate Visa is approximately £715.
+- **Healthcare Surcharge**: You must also pay the healthcare surcharge, which is typically around £624 per year.
+- **Biometric Information Fee**: If you need to provide your biometric information, there may be an additional cost.
+- **Processing Time**: Applications are usually processed within 8 weeks from the date of submission.
+
+### 4. Legal Exceptions:
+- **Switching from
+Evaluation: Score=1.27/5, Similarity=0.255, Key Points Covered=0/3
+
+[Question 3/40] What are the eligibility requirements for the Health Care Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, the eligibility requirements for a Health Care Worker Visa in the UK are as follows:
+
+1. **Job Offer**: You must have a job offer from a UK employer that has been approved by the Home Office. The job must be in the health or social care sector.
+
+2. **Occupation Code**: The job you are offered must fall under the eligible occupation codes as defined by the Home Office. These typically include roles such as doctors, nurses, medical practitioners, and allied health professionals.
+
+3. **Salary Requirement**: You must be paid at least the general salary threshold or the going rate for your occupation, whichever is higher.
+
+4. **Certificate of Sponsorship**: You must have a valid Certificate of Sponsorship from your employer with details about the role you have been offered in the UK.
+
+5. **Knowledge of English**: You must demonstrate a knowledge of English at the required level, which usually involves passing an approved English language test.
+
+6. **Maintenance Funds**: You may need to prove that you have enough personal savings to support yourself when you arrive in the UK, unless your sponsor can cover your costs for the first month.
+
+These criteria are designed to ensure that only qualified health care professionals who meet certain standards of language and professional skills are able to work in the UK, thereby maintaining the quality of healthcare services.
+Evaluation: Score=2.03/5, Similarity=0.305, Key Points Covered=1/3
+
+[Question 4/40] How long can I stay in the UK with the Health Care Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: The Health Care Worker Visa, part of the UK's Health and Care Visa category, allows medical professionals to come to or stay in the UK to work with the NHS, an NHS supplier, or in adult social care. Here are the details regarding the duration of stay under this visa:
+
+1. **Eligibility Criteria**:
+   - You must have a job offer from the NHS, an NHS supplier, or in adult social care.
+   - You need a certificate of sponsorship from your employer with information about the role you have been offered in the UK.
+   - You must meet the salary requirement, which generally must be at least £20,480 or the appropriate rate for the job you’re offered, whichever is higher.
+   - You should be a qualified doctor, nurse, health professional, or adult social care professional.
+   - You must meet the English language requirement.
+
+2. **Duration of Stay**:
+   - The Health Care Worker Visa allows you to stay in the UK for up to 5 years before you need to extend it.
+   - You can apply to extend your visa as many times as you like as long as you still meet the eligibility criteria.
+   - After 5 years of continuous residence, you may also be eligible to apply for indefinite leave to remain (ILR), which allows you to live and work in the UK without time restrictions.
+
+3. **Required Documents**:
+   - A valid certificate of sponsorship for your job.
+   - Proof of English language proficiency.
+   - A valid passport or other document that proves your identity and nationality.
+   - Bank statements or a financial statement to prove you can support yourself during your stay (if applicable).
+   - Tuberculosis test results if you’re from a country where you have to take the test.
+   - Criminal record certificate from any country you have lived in for 12 months or more over the last 10 years, if you work with vulnerable people.
+
+4. **Fees and Processing Time**:
+Evaluation: Score=2.54/5, Similarity=0.508, Key Points Covered=0/3
+
+[Question 5/40] What are the eligibility requirements for the Health Care Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, the eligibility criteria for the Health Care Worker Visa in the UK, which is part of the Health and Care Visa category within the Skilled Worker route, are as follows:
+
+### 1. Eligibility Criteria:
+   - **Job Offer**: You must have a valid job offer from the NHS, an NHS supplier, or in adult social care.
+   - **Skill Level**: The job must be at or above the required skill level of RQF Level 3 (equivalent to A level).
+   - **Salary**: You must be paid a minimum salary that meets the threshold for your job type, which is either the general salary threshold of £20,480 or the going rate for your profession, whichever is higher.
+   - **Sponsorship**: You need a certificate of sponsorship from your employer with details about the role you have been offered in the UK.
+   - **Knowledge of English**: You must prove your knowledge of English by either passing an approved English language test at level B1 or higher, or by having an academic qualification that was taught in English and is recognised by UK NARIC as being equivalent to a UK bachelor’s degree or higher.
+
+### 2. Required Documents:
+   - **Certificate of Sponsorship reference number**.
+   - **Proof of English language proficiency** (test results or academic qualifications).
+   - **Valid passport or other travel document**.
+   - **Job title and annual salary**.
+   - **Job occupation code**.
+   - **Name of the employer and their sponsor licence number**.
+   - **Financial proof** (if needed, to show you can support yourself in the UK).
+
+### 3. Fees and Processing Time:
+   - **Application Fee**: The fee varies depending on whether you are applying from outside or inside the UK. It generally ranges from £232 for up to 3 years and £464 for more than 3 years if applying from outside the UK. There are reduced rates
+Evaluation: Score=2.88/5, Similarity=0.376, Key Points Covered=2/3
+
+[Question 6/40] How do I apply for the Health Care Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a Health Care Worker Visa in the UK, you must meet specific eligibility criteria, provide necessary documents, and be aware of the associated fees and processing times. Here’s a detailed breakdown based on the 2025 official GOV.UK guidelines:
+
+### 1. Eligibility Criteria
+- **Job Offer**: You must have a job offer from the NHS, an NHS supplier, or in adult social care.
+- **Job at Appropriate Skill Level**: The job must be at or above the minimum skill level of RQF Level 3 (equivalent to A level).
+- **Salary Requirement**: You must be paid at least £20,480 or the going rate for the occupation, whichever is higher.
+- **Certificate of Sponsorship**: You need a valid certificate of sponsorship from your employer with details about the role you have been offered in the UK.
+- **Knowledge of English**: You must prove your knowledge of English by either passing an approved English language test at level B1 or higher, or by having an academic qualification that was taught in English and is recognized by UK NARIC as being equivalent to a UK bachelor’s degree or higher.
+
+### 2. Required Documents
+- **Certificate of Sponsorship Reference Number**: Provided by your employer.
+- **Passport or Other Travel Document**: Valid and in good condition to show your identity and nationality.
+- **Bank Statements**: To prove you can support yourself in the UK (unless your sponsor can cover your costs for the first month).
+- **Proof of English Language Proficiency**: Test results or academic qualifications as mentioned above.
+- **Tuberculosis Test Results**: If you are from a listed country where you have to take the test.
+- **Criminal Record Certificate**: From any country you have lived in for 12 months or more over the last 10 years, if working with vulnerable people.
+
+### 3. Fees and Processing Time
+- **Application Fee**: Approximately £232 for up to 3
+Evaluation: Score=2.47/5, Similarity=0.293, Key Points Covered=2/3
+
+[Question 7/40] How long can I stay in the UK with the Graduate Visa?
+Fetching ChatGPT response...
+ChatGPT response: The UK Graduate Visa allows international students who have completed an eligible course in the UK to stay in the country to work, or look for work, at any skill level for a period of:
+
+1. **Eligibility Criteria**:
+   - You must have completed a degree at undergraduate level or higher at a Higher Education Provider with a track record of compliance.
+   - You must have a valid Tier 4 or Student visa at the time of application.
+   - Your course must have been at least 12 months long or the minimum length required to obtain the qualification, whichever is shorter.
+
+2. **Required Documents**:
+   - Proof of completion of the qualifying course.
+   - Your current passport or other valid travel documentation.
+   - Biometric Residence Permit (if applicable).
+   - Evidence of your Student or Tier 4 visa.
+
+3. **Fees and Processing Time**:
+   - The application fee for the Graduate Visa as of 2025 is £715.
+   - The Immigration Health Surcharge is also required, generally around £624 per year.
+   - The typical processing time for the Graduate Visa can vary, but decisions are usually made within 8 weeks of the application date.
+
+4. **Legal Exceptions**:
+   - If your qualification was obtained through distance learning from outside the UK, you might not be eligible unless you were in the UK for at least 12 months during your studies due to specific COVID-19 concessions that may apply.
+   - Dependents are allowed under the Graduate Visa, but they must already be in the UK as your dependents; new dependents cannot join you on this route.
+
+The duration of stay on a Graduate Visa is up to 2 years for most degree levels, and up to 3 years for PhD graduates. This visa is non-extendable, and time spent on it does not count towards settlement in the UK.
+Evaluation: Score=1.59/5, Similarity=0.318, Key Points Covered=0/3
+
+[Question 8/40] How do I apply for the Skilled Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a Skilled Worker Visa in the UK, you need to meet specific eligibility criteria, provide required documents, and be aware of the associated fees and processing times. Here’s a detailed breakdown based on the 2025 official GOV.UK data:
+
+### 1. Eligibility Criteria
+- **Job Offer**: You must have a job offer from a UK employer who holds a valid Sponsor Licence.
+- **Skill Level**: The job must be at or above the minimum skill level of RQF Level 3 or equivalent (A-level work).
+- **Salary Requirement**: You must be paid the higher of either the general salary threshold of £26,500 per year, the specific salary requirement for your occupation (known as the "going rate"), or £10.10 per hour.
+- **English Language Requirement**: You need to prove your knowledge of English by either passing an approved English language test at level B1 or higher, or having an academic qualification that was taught in English and is recognized by UK NARIC as being equivalent to a UK bachelor’s degree or higher.
+
+### 2. Required Documents
+- **Certificate of Sponsorship (CoS)**: Reference number from your employer detailing the role you have been offered in the UK.
+- **Proof of English Language Proficiency**: Test results or academic qualifications.
+- **Passport or Other Travel Document**: Valid and in good condition to show your identity and nationality.
+- **Financial Proof**: Bank statements or similar to prove you can support yourself in the UK (unless your sponsor can cover your costs for the first month).
+- **Tuberculosis Test Results**: If you are from a listed country where this is required.
+- **Criminal Record Certificate**: Required for some jobs, such as those in education or healthcare.
+
+### 3. Fees and Processing Time
+- **Visa Application Fee**: Ranges from £625 to £1,423 depending on where you are applying from and the length of the visa
+Evaluation: Score=1.49/5, Similarity=0.197, Key Points Covered=1/3
+
+[Question 9/40] What are the costs associated with the Uk Family Visa?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, the costs associated with obtaining a UK Family Visa vary depending on the specific type of visa and circumstances. Below are the general details regarding fees, processing times, and other relevant information:
+
+### 1. Eligibility Criteria
+To apply for a UK Family Visa, you must be a non-EEA national and either:
+- Have a family member who is a British citizen or settled in the UK (with indefinite leave to remain or proof of permanent residence),
+- Be joining a partner or spouse with whom you have a genuine and subsisting relationship, or
+- Be joining a parent if you are a dependent child.
+
+### 2. Required Documents
+- Valid passport or travel document.
+- Proof of relationship (marriage certificate, birth certificate, etc.).
+- Evidence of meeting the financial requirement (e.g., bank statements, employment details).
+- Proof of accommodation in the UK.
+- Tuberculosis test results (if applicable).
+
+### 3. Fees and Processing Time
+- **Partner or Spouse Visa:** £1,523 for applications made outside the UK, £1,033 for applications made inside the UK.
+- **Dependent Child Visa:** £1,523 per child for applications made outside the UK, £1,033 per child for applications made inside the UK.
+- **Adult Dependent Relative:** £3,250 for applications made either inside or outside the UK.
+- **Fiancé(e) or Proposed Civil Partner Visa:** £1,523 for applications made outside the UK.
+
+**Processing Times:**
+- Applications from outside the UK typically take around 12 weeks.
+- Applications made within the UK generally take up to 8 weeks. Expedited processing may be available for an additional fee.
+
+### 4. Legal Exceptions
+- **Fee Waiver:** In some cases, fee waivers are available for applicants who can prove they are destitute or for those applying on human rights grounds.
+- **Age Exceptions for Spouses:**
+Evaluation: Score=0.44/5, Similarity=0.089, Key Points Covered=0/3
+
+[Question 10/40] What are the eligibility requirements for the Standard Visitor?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, the eligibility requirements for applying for a Standard Visitor visa to the UK are as follows:
+
+1. **Purpose of Visit**: You must prove that you are visiting the UK for tourism, visiting family and friends, business, participating in sports or creative events, or for another reason such as receiving private medical treatment.
+
+2. **Leave Intention**: You must demonstrate that you will leave the UK at the end of your visit.
+
+3. **Financial Means**: You must show that you have enough money to support yourself and dependents for the duration of your trip without working or needing public funds.
+
+4. **Accommodation**: You must provide evidence of where you will stay during your visit.
+
+5. **Return Plans**: You should have proof of your onward or return journey.
+
+6. **Legal Compliance**: You must not be in breach of immigration laws at the time of your application.
+
+These criteria ensure that visitors are coming to the UK for permissible activities and are likely to adhere to the terms of their visa.
+Evaluation: Score=2.82/5, Similarity=0.464, Key Points Covered=1/3
+
+[Question 11/40] What are the eligibility requirements for the Innovator Visa?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, the eligibility requirements for the UK Innovator Visa are as follows:
+
+1. **Business Idea**: Applicants must have a viable, scalable, and innovative business idea that is approved and supported by an endorsing body. The idea should be different from anything else on the market.
+
+2. **Endorsement**: The applicant must be endorsed by an approved body that is on the UK government’s list of endorsing bodies. This endorsement confirms that the business idea has been assessed and deemed innovative, viable, and scalable.
+
+3. **Investment Funds**: Applicants must have access to at least £50,000 to invest in their business. This requirement can be waived if the business is already established and has been endorsed for an earlier visa.
+
+4. **English Language Requirement**: Applicants must meet the English language requirement of at least B2 level on the Common European Framework of Reference for Languages (CEFR).
+
+5. **Maintenance Funds**: Applicants must show that they can support themselves while they are in the UK. They need to have at least £1,270 in their bank account for 28 consecutive days before applying.
+
+6. **Team Formation**: No more than two people can apply for an Innovator visa for the same business idea.
+
+These criteria ensure that only individuals with a clear intention and capability to contribute to the UK economy through innovative business ventures are granted this visa.
+Evaluation: Score=1.18/5, Similarity=0.136, Key Points Covered=1/3
+
+[Question 12/40] How long can I stay in the UK with the Innovator Visa?
+Fetching ChatGPT response...
+ChatGPT response: The UK Innovator Visa allows you to stay in the UK for 3 years. You can apply to extend this visa for another 3 years if you meet the requirements. There is no limit on the number of times you can extend an Innovator Visa. Additionally, after 3 years, you may be eligible to apply for Indefinite Leave to Remain (ILR), allowing you to stay in the UK permanently.
+Evaluation: Score=3.11/5, Similarity=0.522, Key Points Covered=1/3
+
+[Question 13/40] What are the costs associated with the Join Family In Uk?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, the costs associated with the "Join Family in the UK" visa, typically known as the "Family Visa," are structured as follows:
+
+### 1. Eligibility Criteria
+To apply for a Family Visa to join a family member in the UK, you must prove that:
+- You are outside the European Economic Area (EEA) or Switzerland.
+- You have a family member in the UK who is a British citizen, has settled status (indefinite leave to remain, settled status under the EU Settlement Scheme, or proof of permanent residence), or has refugee status or humanitarian protection in the UK.
+
+### 2. Required Documents
+The documents required typically include:
+- A current passport or other valid travel identification.
+- Proof of relationship to the UK resident (e.g., marriage certificate, birth certificate).
+- Financial evidence showing you can be supported in the UK.
+- Details of your accommodation in the UK.
+- Tuberculosis test results if you are from a country where you have to take the test.
+- English language proficiency evidence unless you are exempt.
+
+### 3. Fees and Processing Time
+- **Application Fee:** The fee for applying from outside the UK is approximately £1,538.
+- **Healthcare Surcharge:** Additionally, you may need to pay the healthcare surcharge, which is typically about £624 per year.
+- **Biometric Information Fee:** You may also need to pay to have your biometric information (fingerprints and a photo) taken.
+
+**Processing Time:**
+- The processing time can vary, but applications are generally processed within 12 weeks if applying from outside the UK. Expedited services may be available for an additional fee.
+
+### 4. Legal Exceptions
+- **Fee Waivers and Reductions:** Fee waivers or reductions may apply under certain circumstances, such as for applicants facing significant financial hardship.
+- **Exemptions from the English Language Requirement:** Certain applicants, such as children under a certain age or applicants
+Evaluation: Score=1.73/5, Similarity=0.346, Key Points Covered=0/3
+
+[Question 14/40] What documents are required for the Health Care Worker Visa application?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, for a Health Care Worker Visa application in the UK, the following documents are typically required:
+
+1. **Passport or Travel Document:** A valid passport or another document that can be used to prove your identity and nationality.
+
+2. **Certificate of Sponsorship (CoS):** You must have a valid Certificate of Sponsorship from your UK employer who is approved by the Home Office. The CoS must contain details about the role you have been offered in the UK.
+
+3. **Proof of English Language Proficiency:** You need to provide evidence that you meet the required level of English language proficiency. This can usually be demonstrated through various tests approved by the Home Office, such as IELTS or OET.
+
+4. **Criminal Record Certificate:** Applicants from certain countries must provide a criminal record certificate from any country they have lived in for 12 months or more over the last 10 years.
+
+5. **Tuberculosis Test Results:** If you are coming from a country where you are required to take a tuberculosis test, you must provide the test results if they are positive.
+
+6. **Financial Evidence:** Proof of financial means to support yourself in the UK, unless your sponsor can cover your costs for the first month.
+
+7. **Qualification Documents:** Depending on the specific healthcare role, you may need to provide evidence of your qualifications.
+
+8. **Registration and Licensing:** If applicable, evidence that you have the necessary registration or licensing to practice in the UK, such as GMC registration for doctors.
+
+Ensure that all documents are in English or Welsh, or accompanied by certified translations. Always check the latest guidance on the official GOV.UK website or consult with an immigration expert to confirm the required documents, as requirements can change.
+Evaluation: Score=1.26/5, Similarity=0.151, Key Points Covered=1/3
+
+[Question 15/40] How do I apply for the Skilled Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a Skilled Worker Visa in the UK, you need to meet specific eligibility criteria, provide required documents, and be aware of the associated fees and processing times. Here’s a detailed breakdown:
+
+### 1. Eligibility Criteria
+- **Job Offer:** You must have a job offer from a UK employer who holds a valid Sponsor Licence.
+- **Skill Level:** The job offer must be at or above the minimum skill level of RQF Level 3 or equivalent (A-level or equivalent qualification).
+- **Salary Threshold:** You must be paid the higher of either the general salary threshold of £26,500 per year, the going rate for your occupation, or the "new entrant" rate if applicable.
+- **English Language Requirement:** You need to demonstrate English language proficiency at level B1 on the Common European Framework of Reference for Languages (CEFR) scale.
+
+### 2. Required Documents
+- **Certificate of Sponsorship (CoS):** Reference number from your employer.
+- **Proof of English Language Proficiency:** Such as IELTS test results or a degree taught in English.
+- **Passport or Other Travel Document:** Valid for the whole duration of your stay in the UK.
+- **Bank Statements:** Showing you have enough personal savings to support yourself in the UK unless your sponsor can cover your costs for the first month.
+- **Criminal Record Certificate:** Required for some jobs within education, healthcare, and other sensitive fields.
+
+### 3. Fees and Processing Time
+- **Application Fee:** Ranges from £610 to £1,408 depending on circumstances, such as the length of your visa and whether you are applying from inside or outside the UK.
+- **Healthcare Surcharge:** Approximately £624 per year.
+- **Processing Time:** Most applications are processed within 3 weeks when applying from outside the UK, and 8 weeks when applying from inside the UK.
+
+### 4. Legal Exceptions
+- **Shortage Occup
+Evaluation: Score=1.64/5, Similarity=0.227, Key Points Covered=1/3
+
+[Question 16/40] How do I apply for the Skilled Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a Skilled Worker Visa in the UK, you need to meet specific eligibility criteria, provide required documents, and be aware of the associated fees and processing times. Here’s a detailed breakdown based on the 2025 official data from GOV.UK:
+
+### 1. Eligibility Criteria:
+- **Job Offer:** You must have a job offer from a UK employer who holds a valid Sponsor Licence.
+- **Skill Level:** The job must be at or above the required skill level of RQF Level 3 or equivalent (A level).
+- **Salary Threshold:** You must be paid the higher of either the general salary threshold of £26,500 per year or the "going rate" for the occupation.
+- **English Language Requirement:** You need to demonstrate English language proficiency at level B1 on the Common European Framework of Reference for Languages (CEFR) in reading, writing, speaking, and listening.
+
+### 2. Required Documents:
+- **Certificate of Sponsorship (CoS):** Reference number from your employer detailing the role and salary.
+- **Proof of English Language Proficiency:** Such as IELTS or equivalent test results.
+- **Passport or Other Travel Document:** Valid for the entirety of your stay.
+- **Financial Proof:** Bank statements or similar documents to prove you can support yourself in the UK (unless your sponsor can cover your costs for the first month).
+- **Criminal Record Certificate:** Required for some jobs, like those in education or healthcare.
+
+### 3. Fees and Processing Time:
+- **Application Fee:** Ranges from £610 to £1,408 depending on circumstances, such as the length of stay and whether you are applying from inside or outside the UK.
+- **Healthcare Surcharge:** Approximately £624 per year.
+- **Biometric Fee:** £19.20.
+- **Processing Time:** Typically, decisions are made within 3 weeks for applications outside the UK and 8 weeks for applications inside the
+Evaluation: Score=1.3/5, Similarity=0.260, Key Points Covered=0/3
+
+[Question 17/40] What are the eligibility requirements for the Uk Family Visa?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, the eligibility requirements for a UK Family Visa depend on your specific relationship to a person settled in the UK. Here are the general criteria for different types of family relationships:
+
+### 1. Partners and Spouses
+- **Relationship**: You must be married, in a civil partnership, or in a relationship akin to marriage or civil partnership for at least two years.
+- **Financial Requirement**: You must meet a minimum income threshold of £18,600 per year, or have enough savings to support yourselves without claiming public funds.
+- **Accommodation**: You must have adequate accommodation for you, your partner, and any dependants.
+- **Knowledge of English**: You need to prove your knowledge of the English language, typically through a recognized English language test.
+
+### 2. Fiancé(e) or Proposed Civil Partner
+- **Intention to Marry**: You must prove that you intend to marry or enter into a civil partnership within 6 months of arriving in the UK.
+- **Financial Requirement**: As above, the minimum income threshold of £18,600 or sufficient savings.
+- **Knowledge of English**: As above, proof of English language proficiency is required.
+
+### 3. Children
+- **Age**: Under 18 at the time of application, and not living an independent life.
+- **Relationship**: Must be your biological, adopted, or stepchild.
+- **Financial Requirement**: Parent(s) must meet the £18,600 requirement, with an additional £3,800 for the first child and £2,400 for each additional child.
+- **Accommodation**: Adequate living arrangements must be in place.
+
+### 4. Adult Dependant Relatives
+- **Age and Relationship**: Must be a parent, grandparent, sibling, or child over the age of 18 who is not in a position to receive the required care in their home country due to illness, disability, or age.
+- **Care Needs**: Must prove that
+Evaluation: Score=2.11/5, Similarity=0.323, Key Points Covered=1/3
+
+[Question 18/40] What are the costs associated with the Uk Family Visa?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, the costs associated with obtaining a UK Family Visa can vary depending on the specific type of visa and circumstances. Below are the general fees and processing times for the most common types of UK Family Visas:
+
+### 1. Eligibility Criteria:
+The UK Family Visa category includes visas for partners, fiancé(e)s, proposed civil partners, children, and other dependent relatives. The eligibility criteria depend on the specific relationship to the UK resident (who must be a British citizen, settled person, or someone with asylum or humanitarian protection in the UK).
+
+### 2. Required Documents:
+- Proof of relationship (marriage certificate, birth certificate, etc.)
+- Evidence of meeting the financial requirement (e.g., bank statements, salary slips)
+- Proof of accommodation in the UK
+- Applicant’s current passport or other valid travel ID
+- Evidence of English language proficiency (unless exempt)
+- Tuberculosis test results (if applicable)
+
+### 3. Fees and Processing Time:
+- **Partner Visa (spouse, civil partner, unmarried partner)**:
+  - **Fee**: Approximately £1,523 for applications made outside the UK, £1,033 for applications made inside the UK.
+  - **Processing Time**: Usually about 12 weeks for applications made outside the UK, 8 weeks for applications made inside the UK. Priority services may be available for an additional fee, reducing processing times.
+
+- **Fiancé(e) or Proposed Civil Partner Visa**:
+  - **Fee**: Approximately £1,523
+  - **Processing Time**: About 12 weeks. Priority services may be available.
+
+- **Dependent Child Visa**:
+  - **Fee**: Approximately £1,523 per child when applying from outside the UK, £1,033 per child when applying inside the UK.
+  - **Processing Time**: Similar to partner visas, with priority services available.
+
+- **Adult Dependent Relative**:
+  - **Fee**: Approximately £3,250
+Evaluation: Score=1.83/5, Similarity=0.266, Key Points Covered=1/3
+
+[Question 19/40] How long can I stay in the UK with the Join Family In Uk?
+Fetching ChatGPT response...
+ChatGPT response: To provide you with the most accurate information regarding the "Join Family in the UK" visa, it's important to clarify which specific visa category you are referring to, as there are several types that allow individuals to join family members in the UK. The most common types include:
+
+1. **Family Visa (to join a partner or family for a long stay)**:
+   - **Eligibility**: You must be joining a family member who is either a British citizen, has settled status in the UK, or has refugee or humanitarian protection in the UK.
+   - **Stay Duration**: The length of stay can vary. If you are joining your spouse or partner, you initially get a visa for 2.5 years which can be extended.
+   - **Required Documents**: Proof of relationship, proof of meeting financial requirements, knowledge of English, and accommodation details.
+   - **Fees and Processing Time**: Fees vary depending on circumstances; processing times are typically around 12 weeks for outside the UK applications.
+   - **Legal Exceptions**: Exceptions may apply in cases of refugee family reunion or if the family member in the UK has a certain type of visa.
+
+2. **Parent of a Child Student Visa (formerly known as Parent of a Tier 4 Child Visa)**:
+   - **Eligibility**: Available to parents of children attending an independent fee-paying day school in the UK.
+   - **Stay Duration**: The visa lasts for either 6 or 12 months and can be extended.
+   - **Required Documents**: Proof of your child’s education and your relationship, financial means, and accommodation details.
+   - **Fees and Processing Time**: Fees are required for each period of extension; typical processing times can vary.
+   - **Legal Exceptions**: Specific only to parents of children at certain schools; does not generally allow other work or study.
+
+3. **Adult Dependent Relative**:
+   - **Eligibility**: For those needing long-term care from a family member in the
+Evaluation: Score=1.08/5, Similarity=0.217, Key Points Covered=0/3
+
+[Question 20/40] How long can I stay in the UK with the Uk Family Visa?
+Fetching ChatGPT response...
+ChatGPT response: The duration of stay in the UK with a UK Family Visa depends on the specific circumstances and the type of visa applied for. Here are the general guidelines for some common types of UK Family Visas as of 2025:
+
+### 1. Spouse or Partner Visa
+   - **Eligibility Criteria:** You must be married to, or in a civil partnership with, someone who is a UK resident (British citizen, settled person, or someone with refugee status or humanitarian protection in the UK).
+   - **Duration of Stay:** Initially granted for 2.5 years under the 5-year route to settlement. After this period, you can apply for an extension of another 2.5 years.
+
+### 2. Parent Visa
+   - **Eligibility Criteria:** You must be the parent of a child who is a British citizen or has lived in the UK for 7 years and it would not be reasonable for the child to leave the UK.
+   - **Duration of Stay:** Granted for 2.5 years. You can then apply for an extension for another 2.5 years.
+
+### 3. Adult Dependent Relative
+   - **Eligibility Criteria:** You must be dependent on a relative who is living in the UK and can provide long-term care that you cannot get in your home country, either due to cost or availability.
+   - **Duration of Stay:** Granted indefinitely, allowing you to remain in the UK permanently.
+
+### 4. Child Visa
+   - **Eligibility Criteria:** The child must be under 18 during the application, not living an independent life, and joining parents who are both in the UK or will be admitted for settlement at the same time as the child.
+   - **Duration of Stay:** Depends on the parents' visa status but generally aligns with the duration of the parents' visas.
+
+### General Information for All Family Visas:
+- **Required Documents:** Passport, proof of relationship (marriage
+Evaluation: Score=1.63/5, Similarity=0.225, Key Points Covered=1/3
+
+[Question 21/40] What documents are required for the Innovator Visa application?
+Fetching ChatGPT response...
+ChatGPT response: For the Innovator Visa application in the UK as of 2025, the following documents are typically required:
+
+1. **Passport or Other Valid Travel ID**: This must be valid and show your identity and nationality.
+
+2. **Business Plan**: A detailed business plan that outlines the nature of the business, its market potential, and operational plans.
+
+3. **Endorsement Letter**: A letter from an approved endorsing body that confirms they have assessed and approved your business idea for innovation, viability, and scalability.
+
+4. **Evidence of Investment Funds**: Proof that you have at least £50,000 available to invest in your business or have already invested this amount into your business in the UK.
+
+5. **Maintenance Funds**: Evidence that you have enough personal savings to support yourself while in the UK. The specific amount required can vary, so it's important to check the latest requirements.
+
+6. **English Language Requirement**: Proof of English language proficiency, typically through a secure English language test (SELT) from an approved provider, showing at least CEFR level B2 in reading, writing, speaking, and listening.
+
+7. **Tuberculosis Test Results**: If you are from a country where you have to take the test, you need to provide your tuberculosis test results.
+
+8. **Previous Financial History**: Documents such as bank statements may be required to demonstrate your financial history and the legitimacy of your funds.
+
+9. **Accommodation Details**: While not always mandatory, providing details of your accommodation in the UK can be beneficial.
+
+10. **Biometric Information**: As part of the application process, you will need to provide your fingerprints and a photograph at a visa application centre.
+
+Ensure that all documents are in English or Welsh, or accompanied by certified translations. Always check the latest guidance on the official GOV.UK website or consult with an immigration expert to ensure you have the most current and comprehensive list of required documents.
+Evaluation: Score=1.02/5, Similarity=0.203, Key Points Covered=0/3
+
+[Question 22/40] What are the eligibility requirements for the Innovator Visa?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, the eligibility requirements for the UK Innovator Visa are as follows:
+
+1. **Business Idea**: You must have a unique business idea that is new - you cannot join a business that is already trading. The idea should be viable, with potential for growth.
+
+2. **Endorsement**: Your business idea must be endorsed by an approved endorsing body that is satisfied with the innovation, viability, and scalability of your proposal.
+
+3. **Investment Funds**: You must have at least £50,000 available to invest in your business from any legitimate source. This requirement may be waived if your business is already established and has been endorsed for an earlier visa.
+
+4. **English Language Requirement**: You need to demonstrate English language ability to at least Level B2 on the Common European Framework of Reference for Languages (CEFR).
+
+5. **Maintenance Funds**: You must prove that you can support yourself while you are in the UK. You need to have at least £1,270 in your bank account for 28 consecutive days before you apply.
+
+6. **Other Conditions**: You must be at least 18 years old and meet the general suitability requirements for UK visa applicants, which include checks on your criminal record and previous immigration history.
+
+These criteria must be met to successfully apply for an Innovator Visa in the UK.
+Evaluation: Score=2.31/5, Similarity=0.362, Key Points Covered=1/3
+
+[Question 23/40] What are the eligibility requirements for the Skilled Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, the eligibility criteria for a Skilled Worker Visa in the UK are as follows:
+
+1. **Job Offer**: You must have a job offer from a UK employer who holds a valid Sponsor Licence.
+2. **Skill Level of the Job**: The job must be at or above the required skill level of RQF3 or equivalent (A level or equivalent qualification).
+3. **Salary Requirement**: The salary must meet the general salary threshold or the "going rate" for the occupation, whichever is higher. As of 2025, the general salary threshold is £26,500 per year, or £10.10 per hour.
+4. **English Language Requirement**: You must prove your knowledge of English, which involves passing an approved English language test at level B1 or higher in speaking, listening, reading, and writing.
+
+These criteria ensure that the visa is granted to individuals who are capable of contributing to the UK economy through their skilled work.
+Evaluation: Score=2.52/5, Similarity=0.304, Key Points Covered=2/3
+
+[Question 24/40] What are the eligibility requirements for the Standard Visitor?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, the eligibility criteria for applying for a Standard Visitor visa to the UK are as follows:
+
+1. **Purpose of Visit**: You must prove that you are visiting the UK for tourism, visiting family and friends, business activities, participating in sports or creative events, or for another reason such as private medical treatment.
+
+2. **Leave Intention**: You must demonstrate that you will leave the UK at the end of your visit.
+
+3. **Financial Means**: You must show that you can support yourself and any dependents for the duration of your trip. You should also be able to pay for your return or onward journey.
+
+4. **Accommodation**: You must provide evidence of where you will stay during your visit.
+
+5. **Legal Compliance**: You must not be in breach of immigration laws at the time of your application.
+
+6. **Business Activities**: If visiting for business-related activities, you should clarify the nature of the business and ensure it aligns with the allowed activities under a Standard Visitor visa.
+
+These criteria ensure that visitors will benefit the UK and comply with its laws during their stay.
+Evaluation: Score=2.81/5, Similarity=0.462, Key Points Covered=1/3
+
+[Question 25/40] How do I apply for the Health Care Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a Health and Care Worker Visa in the UK, you must meet specific eligibility criteria, provide required documents, and be aware of the associated fees and processing times. Here’s a detailed breakdown based on the official 2025 guidelines from GOV.UK:
+
+### 1. Eligibility Criteria
+- **Job Offer**: You must have a job offer from the NHS, an NHS supplier, or in adult social care.
+- **Occupation Code**: The job must be eligible under the relevant SOC (Standard Occupational Classification) codes.
+- **Salary Requirement**: You must be paid at least £20,480 or the going rate for the occupation, whichever is higher.
+- **Certificate of Sponsorship (CoS)**: You need a valid CoS from your employer with details about the role you have been offered in the UK.
+- **English Language Requirement**: You must prove your knowledge of English by either passing an approved English language test at level B1 or higher, or by having an academic qualification that was taught in English and is recognized by UK NARIC as being equivalent to a UK bachelor’s degree or higher.
+
+### 2. Required Documents
+- **Certificate of Sponsorship reference number**.
+- **Proof of English language proficiency** (test results or qualifications).
+- **Valid passport or other travel documentation**.
+- **Bank statements or proof of savings** to show you can support yourself in the UK (if applicable).
+- **Tuberculosis test results** (if you are from a listed country).
+- **Criminal record certificate** from any country you have lived in for 12 months or more over the last 10 years, if working with vulnerable people.
+
+### 3. Fees and Processing Time
+- **Visa Application Fee**: Approximately £232 for up to 3 years and £464 for more than 3 years for each person.
+- **Healthcare Surcharge**: Approximately £624 per year.
+- **Processing Time**: Most applications are
+Evaluation: Score=1.13/5, Similarity=0.226, Key Points Covered=0/3
+
+[Question 26/40] How do I apply for the Standard Visitor?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a Standard Visitor visa to the UK in 2025, you must follow these guidelines:
+
+### 1. Eligibility Criteria:
+- You must prove that you will leave the UK at the end of your visit.
+- You need to show that you can support yourself and any dependents for the duration of your trip.
+- You need to show that you can pay for your return or onward journey and any other costs relating to your visit.
+- You must have proof of any business or other activities you want to do in the UK, as allowed by the Visitor Rules.
+
+### 2. Required Documents:
+- A current passport or other valid travel identification.
+- Evidence that you can support yourself during your trip, e.g., bank statements or payslips for the last 6 months.
+- Details of your accommodation and return travel bookings.
+- A formal invitation if you are visiting the UK for a specific purpose, like a business meeting.
+- Additional documents related to your visit, e.g., business event details, proof of study plans, or a letter of invitation from family.
+
+### 3. Fees and Processing Time:
+- **Fee:** The fee for a Standard Visitor visa as of 2025 is £100 for a 6-month visa. Longer-term visas might be available, such as 2-year, 5-year, or 10-year visas, which have higher fees.
+- **Processing Time:** The typical processing time for a Standard Visitor visa is about 3 weeks from the date of application. Expedited services may be available for an additional fee.
+
+### 4. Legal Exceptions:
+- If you are applying for medical reasons, you might need additional documents, such as a letter from a doctor or consultant in the UK detailing the treatment plan.
+- If you are under 18, you must provide additional documents, such as a letter from your parent or guardian confirming details of anyone accompanying you, and their relationship to you.
+
+Always check the latest information on the
+Evaluation: Score=2.16/5, Similarity=0.433, Key Points Covered=0/3
+
+[Question 27/40] What are the costs associated with the Innovator Visa?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, the costs associated with the UK Innovator Visa are structured as follows:
+
+1. **Eligibility Criteria**:
+   - The applicant must be at least 18 years old.
+   - They must have a business or business idea that has been endorsed by an approved body.
+   - They need to meet the English language requirement.
+   - They must be able to prove that they have enough personal savings to support themselves while in the UK.
+
+2. **Required Documents**:
+   - A current passport or other valid travel identification.
+   - Bank statements showing you have at least £1,270 in savings in your bank account for 28 consecutive days before you apply.
+   - Evidence of the investment funds if required for the business.
+   - Proof of the business idea or endorsement from an approved body.
+   - Evidence of meeting the English language requirement.
+
+3. **Fees and Processing Time**:
+   - Application Fee: The fee for the Innovator Visa is £1,036 if you are applying from outside the UK, and £1,292 if you are extending or switching visas within the UK.
+   - Healthcare Surcharge: Applicants also need to pay the healthcare surcharge, which is typically around £624 per year.
+   - Processing Time: The processing time for an Innovator Visa can vary, but applications are usually decided within 3 weeks when applying from outside the UK, and 8 weeks when applying from inside the UK.
+
+4. **Legal Exceptions**:
+   - If the applicant is from Turkey or Macedonia, they might qualify for a £55 reduction in their application fee.
+   - There may be additional provisions or exceptions in cases of changes in personal circumstances, such as changes in endorsement or business conditions, which would need to be discussed with legal advisors or directly with immigration services.
+
+These details provide a comprehensive overview of the costs and requirements associated with applying for an Innovator Visa to the UK as of 2025. Always ensure to
+Evaluation: Score=2.55/5, Similarity=0.311, Key Points Covered=2/3
+
+[Question 28/40] How do I apply for the Standard Visitor?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, if you are looking to apply for a Standard Visitor visa to the UK, here is the information you need to know:
+
+### 1. Eligibility Criteria
+To be eligible for a Standard Visitor visa, you must prove that:
+- You will leave the UK at the end of your visit.
+- You can support yourself and any dependents for the duration of your trip.
+- You can pay for your return or onward journey and any other costs relating to your visit.
+- You have proof of any business or other activities you want to do in the UK, as allowed by the Visitor Rules.
+
+### 2. Required Documents
+The documents you need when applying for a Standard Visitor visa include:
+- A current passport or other valid travel identification.
+- Evidence that you can support yourself during your trip, such as bank statements or payslips for the last 6 months.
+- Details of your accommodation and travel plans.
+- Proof of your legal ties to your home country, such as a job or family.
+- Depending on your circumstances, you might also need to provide:
+  - Details of the business activities or reasons for your visit.
+  - Previous travel documentation.
+  - A formal invitation from someone in the UK.
+
+### 3. Fees and Processing Time
+- **Fees:** The fee for a Standard Visitor visa is approximately £100 for a 6-month visa. Longer-term visas might cost more, up to £361 for a 2-year visa, £655 for a 5-year visa, and £822 for a 10-year visa.
+- **Processing Time:** The typical processing time for a Standard Visitor visa is about 3 weeks from the date of application. However, processing times can vary based on the visa application center and individual circumstances.
+
+### 4. Legal Exceptions
+- **Medical Visits:** If you are coming to the UK for private medical treatment, you might need to provide additional documents, such as a letter from a
+Evaluation: Score=2.62/5, Similarity=0.424, Key Points Covered=1/3
+
+[Question 29/40] What are the costs associated with the Standard Visitor?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, the costs associated with applying for a Standard Visitor visa to the UK are as follows:
+
+1. **Eligibility Criteria**:
+   - You must prove that you will leave the UK at the end of your visit.
+   - You need to show that you can support yourself and any dependents for the duration of your trip.
+   - You need to show that you can pay for your return or onward journey and any other costs relating to your visit.
+   - You must show that you have a reason to return to your home country after your visit.
+
+2. **Required Documents**:
+   - A current passport or other valid travel identification.
+   - Evidence that you can support yourself during your trip (e.g., bank statements or payslips for the last 6 months).
+   - Details of your accommodation and return travel bookings.
+   - A formal invitation if you are visiting the UK to see family or friends.
+   - Proof of the business activities you will be undertaking if visiting for business.
+
+3. **Fees and Processing Time**:
+   - The fee for a Standard Visitor visa is £100 for a visit of up to 6 months.
+   - Longer-term Standard Visitor visas cost more: £376 for a 2-year visa, £670 for a 5-year visa, and £837 for a 10-year visa.
+   - The processing time for a Standard Visitor visa application is generally around 3 weeks from the date of application.
+
+4. **Legal Exceptions**:
+   - There are no specific legal exceptions that alter the fee structure for the Standard Visitor visa. However, visitors from certain countries may not need a visa for visits up to 6 months, such as those from the USA, Canada, New Zealand, and some other countries. Always check the latest visa requirements based on your nationality.
+
+These details provide a comprehensive overview of the costs and requirements for obtaining a Standard Visitor visa to the UK as of 2025. Always
+Evaluation: Score=3.23/5, Similarity=0.446, Key Points Covered=2/3
+
+[Question 30/40] What documents are required for the Graduate Visa application?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, when applying for a Graduate Visa in the UK, you will need to provide several specific documents to support your application. Here’s a structured list of the required documents:
+
+### Required Documents for Graduate Visa Application:
+1. **Passport or Other Valid Travel ID:** This must be valid and show your identity and nationality.
+2. **Biometric Residence Permit (BRP):** If you were given a BRP when you received your Student Visa or Tier 4 Visa, you need to include this.
+3. **Proof of Successful Completion of Your Course:** You need evidence from your educational institution (such as a degree certificate or official transcript) confirming you have successfully completed the course for which you were granted a Student Visa or Tier 4 Visa.
+4. **Confirmation of Acceptance for Studies (CAS):** Details from your CAS used for your previous Student Visa application may be required to verify your qualification.
+5. **Financial Evidence:** Although not typically required for the Graduate Visa, it’s wise to have proof of financial means to support yourself in the UK if asked.
+6. **Police Registration Certificate:** If you were required to register with the police upon your initial entry into the UK on a different visa, you should include this certificate.
+
+Ensure that all documents are current and valid at the time of your application, and check for any additional or updated requirements on the official GOV.UK website before submitting your application.
+Evaluation: Score=1.48/5, Similarity=0.297, Key Points Covered=0/3
+
+[Question 31/40] How long can I stay in the UK with the Student Visa?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, the duration for which you can stay in the UK with a Student Visa depends primarily on the length and type of the course you are enrolled in. Here are the general guidelines:
+
+1. **Eligibility Criteria**:
+   - You must have been offered a place on a course by a licensed student sponsor.
+   - You need to demonstrate that you can speak, read, write, and understand English.
+   - You must prove you have enough money to support yourself and pay for your course.
+
+2. **Required Documents**:
+   - A current passport or other valid travel documentation.
+   - A Confirmation of Acceptance for Studies (CAS) from your course provider.
+   - Proof of financial means (such as bank statements or a financial sponsor letter).
+   - Proof of your knowledge of English (like a SELT – Secure English Language Test).
+
+3. **Fees and Processing Time**:
+   - The application fee for a Student Visa is approximately £363 (if you are applying from outside the UK) or £490 (if you are extending or switching from inside the UK).
+   - The Immigration Health Surcharge is also required, generally around £470 per year.
+   - Standard processing times for Student Visas are about 3 weeks when applying from outside the UK.
+
+4. **Duration of Stay**:
+   - For courses that last 12 months or more: You can stay for the full length of the course plus an additional 4 months after the course ends.
+   - For courses that last 6 months or less: You can generally stay for the duration of the course plus an additional 2 months.
+   - For pre-sessional courses of less than 6 months: You can stay for the duration of the course plus 1 month.
+   - For postgraduate doctors or dentists on a recognized foundation program: Up to 3 years and 1 month, or the duration of the course plus one month, whichever is shorter.
+Evaluation: Score=2.61/5, Similarity=0.422, Key Points Covered=1/3
+
+[Question 32/40] How do I apply for the Innovator Visa?
+Fetching ChatGPT response...
+ChatGPT response: To apply for an Innovator Visa in the UK, you must meet specific eligibility criteria, provide required documents, and be aware of the associated fees and processing times. Here's a detailed breakdown based on the 2025 official GOV.UK guidelines:
+
+### 1. Eligibility Criteria:
+- **Business Idea**: You must have a unique business idea that is new, viable, and scalable. It should not be something that's already trading in the UK unless you are already a key team member of that business.
+- **Endorsement**: Your business or business idea must be endorsed by an approved endorsing body that is satisfied with the innovation, viability, and scalability of your business.
+- **Investment Funds**: You need at least £50,000 available to invest in your business from any legitimate source. This requirement may be waived if your business is already established and has been previously endorsed for another visa.
+- **English Language Requirement**: You must prove your knowledge of the English language, typically by passing a Secure English Language Test (SELT) at level B2.
+- **Maintenance Funds**: You need to show that you have enough personal savings to support yourself while in the UK. You must have at least £1,270 in your bank account for 28 consecutive days before you apply.
+
+### 2. Required Documents:
+- **Passport or other valid travel identification**.
+- **Bank statements** showing you have had at least £1,270 in savings for 28 consecutive days before applying.
+- **Evidence of investment funds** if required for your business.
+- **Endorsement letter** from an approved endorsing body.
+- **Proof of English language proficiency**, such as a SELT certificate.
+- **Business plan** outlining the details of your business idea.
+- Additional documents may be required depending on your circumstances, such as evidence of previous business experience or qualifications.
+
+### 3. Fees and Processing Time:
+- **Application Fee**: The fee for an Innovator Visa
+Evaluation: Score=1.2/5, Similarity=0.239, Key Points Covered=0/3
+
+[Question 33/40] How long can I stay in the UK with the Join Family In Uk?
+Fetching ChatGPT response...
+ChatGPT response: To provide you with the most accurate and relevant information regarding the duration of stay under the "Join Family in the UK" visa category, it's important to know which specific visa type you are referring to, as there are several under this category. Each type allows for different lengths of stay. Here are the common types:
+
+1. **Family Visa (to join a partner or family member)**:
+   - **Eligibility**: You must be joining a partner, parent, or child who is either a British citizen, has settled status in the UK, or is in the UK with refugee status or humanitarian protection.
+   - **Duration of Stay**: If you are joining your partner or parent, you can stay for 2.5 years and then you need to extend your visa. After 5 years, you may be able to apply for settlement (indefinite leave to remain).
+
+2. **Adult Dependent Relative**:
+   - **Eligibility**: This visa is for those who need long-term care from a parent, grandchild, brother, sister, son, or daughter who is a British citizen or settled in the UK.
+   - **Duration of Stay**: This visa typically grants indefinite leave to enter or remain in the UK, meaning you can stay permanently.
+
+3. **Child Visa**:
+   - **Eligibility**: This is for children joining parents who are in the UK. The parents must either be British citizens or settled in the UK.
+   - **Duration of Stay**: Children can stay indefinitely if they are joining a parent who is settled or a British citizen. Otherwise, the stay is usually aligned with the duration of the parent's visa.
+
+Please specify which type of "Join Family in the UK" visa you are interested in for more detailed information on duration, or if you have another specific scenario in mind.
+Evaluation: Score=1.99/5, Similarity=0.298, Key Points Covered=1/3
+
+[Question 34/40] How do I apply for the Skilled Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a Skilled Worker Visa in the UK, you need to meet specific eligibility criteria, provide required documents, and be aware of the associated fees and processing times. Here's a detailed breakdown based on the 2025 official GOV.UK data:
+
+### 1. Eligibility Criteria
+- **Job Offer**: You must have a job offer from a UK employer who holds a valid Sponsor Licence.
+- **Skill Level**: The job offer must be at a skill level of RQF Level 3 or above (equivalent to A level).
+- **Salary Requirement**: You must be paid the minimum salary threshold, which is either the general salary threshold of £26,500 or the going rate for the occupation, whichever is higher.
+- **English Language Requirement**: You must prove your knowledge of English by passing a Secure English Language Test (SELT) at level B1 or higher, or by having an equivalent qualification.
+
+### 2. Required Documents
+- **Certificate of Sponsorship (CoS)**: Reference number from your employer.
+- **Proof of English Language Proficiency**: Test results or qualifications.
+- **Passport or Other Travel Document**: Valid and in good condition.
+- **Financial Proof**: Bank statements or similar documents to prove you can support yourself in the UK (unless your sponsor can cover your costs for the first month).
+- **Criminal Record Certificate**: Required for some jobs, like those in education or healthcare.
+
+### 3. Fees and Processing Time
+- **Visa Application Fee**: Ranges from £610 to £1,408 depending on the length of the visa and whether you are applying from inside or outside the UK.
+- **Healthcare Surcharge**: Approximately £624 per year.
+- **Processing Time**: Most applications are processed within 3 weeks when applying from outside the UK, and within 8 weeks when applying from inside the UK.
+
+### 4. Legal Exceptions
+- **Shortage Occupations**: Jobs on the
+Evaluation: Score=2.22/5, Similarity=0.244, Key Points Covered=2/3
+
+[Question 35/40] How long can I stay in the UK with the Student Visa?
+Fetching ChatGPT response...
+ChatGPT response: The duration of your stay in the UK with a Student Visa depends primarily on the length of your course and the type of study you are undertaking. Here are the general guidelines:
+
+1. **Eligibility Criteria**:
+   - You must have been offered a place on a course by a licensed student sponsor.
+   - You need to demonstrate that you can speak, read, write, and understand English.
+   - You must prove you have enough money to support yourself and pay for your course.
+
+2. **Required Documents**:
+   - A current passport or other valid travel documentation.
+   - Confirmation of Acceptance for Studies (CAS) from your course provider.
+   - Proof of financial means (such as bank statements or a financial sponsor's letter).
+   - Proof of English language proficiency (like a SELT certificate).
+
+3. **Fees and Processing Time**:
+   - The application fee for a Student Visa is approximately £363 (if you are applying from outside the UK) or £490 (if you are extending or switching visas within the UK).
+   - The healthcare surcharge is also required, which is typically around £470 per year.
+   - Standard processing time for a Student Visa can vary, but applications are usually decided within 3 weeks when applying from outside the UK.
+
+4. **Legal Exceptions**:
+   - If your course is less than 6 months, you may only stay for the duration of the course plus an additional week.
+   - If your course is longer than 6 months but less than 12 months, you can stay for the full length of the course plus an additional 2 months.
+   - If your course is 12 months or longer, you can generally stay for the full duration of the course plus an additional 4 months.
+
+5. **Additional Information**:
+   - If you are 16 or 17 years old, you must have the consent of your parents or guardians to study in the UK.
+   - You can also
+Evaluation: Score=2.43/5, Similarity=0.486, Key Points Covered=0/3
+
+[Question 36/40] How do I apply for the Health Care Worker Visa?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a Health and Care Worker Visa in the UK, you need to meet specific eligibility criteria, provide required documents, and be aware of the associated fees and processing times. Here’s a detailed breakdown based on the 2025 official GOV.UK guidelines:
+
+### 1. Eligibility Criteria
+- **Job Offer:** You must have a job offer from the NHS, an NHS supplier, or in adult social care.
+- **Occupation Code:** The job must be eligible under the relevant SOC (Standard Occupational Classification) codes for health professionals.
+- **Salary Threshold:** You must be paid at least £20,480 or the going rate for your occupation, whichever is higher.
+- **Certificate of Sponsorship:** You need a valid certificate of sponsorship from your employer with details about the role you have been offered in the UK.
+- **Language Requirement:** You must prove your knowledge of English, typically by passing an approved English language test at level B1 or higher.
+
+### 2. Required Documents
+- **Certificate of Sponsorship Reference Number:** Provided by your employer.
+- **Passport or Other Travel Document:** Valid and in good condition to establish your identity and nationality.
+- **Bank Statements:** To prove you can support yourself in the UK (unless your sponsor can cover your costs for the first month).
+- **English Language Test Results:** Unless you are exempt due to your nationality or have a degree taught in English.
+- **Criminal Record Certificate:** Required from any country you have lived in for 12 months or more over the last 10 years if you work with vulnerable people.
+
+### 3. Fees and Processing Time
+- **Application Fee:** The fee varies depending on whether you are applying from inside or outside the UK. As of 2025, the fee is approximately £232 for up to 3 years and £464 for more than 3 years if applying from outside the UK. There are discounts for certain nationalities.
+- **Healthcare Sur
+Evaluation: Score=2.93/5, Similarity=0.486, Key Points Covered=1/3
+
+[Question 37/40] How long can I stay in the UK with the Uk Family Visa?
+Fetching ChatGPT response...
+ChatGPT response: The duration of stay in the UK with a UK Family Visa depends on the specific circumstances and the type of family relationship you have with someone who is a UK resident. Here are the general guidelines for different scenarios:
+
+1. **Partner or Spouse**:
+   - If you are applying as a spouse or partner (including fiancé(e) or proposed civil partner), you can initially stay for 33 months if applying from outside the UK or 30 months if applying from within the UK. You can then apply to extend your stay for another 30 months, which can lead to eligibility for indefinite leave to remain (ILR) after a total of 5 years.
+
+2. **Children**:
+   - Children can stay as long as their parent's visa is valid. They can apply for extensions and eventually settle in the UK after 5 years, similar to adult partners.
+
+3. **Adult Dependent Relative**:
+   - This visa usually allows for permanent stay from the outset, as it is intended for family members who need long-term care.
+
+4. **Other Relatives**:
+   - Other relatives who need long-term care and cannot get such care in their home country might also be eligible to stay permanently.
+
+Each type of Family Visa has specific conditions and durations, so it's essential to check the exact type of visa and the associated rules for your particular situation.
+Evaluation: Score=1.91/5, Similarity=0.382, Key Points Covered=0/3
+
+[Question 38/40] How do I apply for the Join Family In Uk?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a visa to join family in the UK, you must follow specific criteria and procedures. Here’s a structured guide based on the 2025 official data from GOV.UK:
+
+### 1. Eligibility Criteria
+To be eligible to apply for a visa to join family in the UK, you must meet the following criteria:
+- **Relationship Requirements**: You must be a spouse, civil partner, fiancé(e), proposed civil partner, child, or dependent adult relative of someone who is either a British citizen, settled in the UK, has refugee status or humanitarian protection in the UK.
+- **Financial Requirement**: You must prove that your partner or sponsor in the UK meets a minimum income threshold (usually £18,600 per year for a partner or more if sponsoring dependent children).
+- **English Language Requirement**: If you are joining as a spouse or partner, you generally need to prove your knowledge of English by passing an approved English language test at level A1 or higher, unless you are exempt (e.g., from certain English-speaking countries or over 65 years old).
+- **Accommodation Requirement**: You must demonstrate that there will be adequate accommodation for you and any dependents without recourse to public funds.
+
+### 2. Required Documents
+The documents required typically include:
+- **Passport or Travel Document**: Valid and with at least one blank page.
+- **Proof of Relationship**: Marriage certificate, civil partnership certificate, birth certificate, or proof of living together for at least 2 years if unmarried.
+- **Financial Evidence**: Bank statements, salary slips, or employment contracts to prove the financial requirement is met.
+- **English Language Certificate**: Unless exempt, a certificate from an approved test provider.
+- **Accommodation Details**: Property inspection report or housing lease.
+- **Application Form**: Completed and signed.
+
+### 3. Fees and Processing Time
+- **Fees**: The fee for a family visa depends on the exact category and whether you are applying from
+Evaluation: Score=1.56/5, Similarity=0.312, Key Points Covered=0/3
+
+[Question 39/40] What are the eligibility requirements for the Student Visa?
+Fetching ChatGPT response...
+ChatGPT response: To apply for a Student Visa in the UK in 2025, you must meet the following eligibility criteria:
+
+1. **Course Requirement**: You must have an offer from a licensed student sponsor to study a course that meets the qualification requirements. This typically includes a full-time course leading to a qualification that is at least level 6 on the Ofqual register or a full-time course at degree level or above that is compliant with the student visa regulations.
+
+2. **Sponsorship**: You must have a Confirmation of Acceptance for Studies (CAS) from your educational institution, which is a licensed student sponsor.
+
+3. **Financial Requirement**: You must prove that you have enough money to support yourself and pay for your course. The exact amount depends on your circumstances and where you will be studying.
+
+4. **English Language Requirement**: You must demonstrate English language proficiency. This is usually done by passing a Secure English Language Test (SELT) from an approved provider at level B2 or higher, unless you are exempted due to your nationality or having completed a qualification equivalent to a UK degree in an English-speaking country.
+
+5. **Age Requirement**: You must be at least 16 years old.
+
+6. **Consent**: If you are under 18, you need parental consent to travel to and study in the UK.
+
+These criteria are designed to ensure that students are genuine and capable of completing the course they are applying for, and that they can support themselves financially during their studies in the UK.
+Evaluation: Score=2.15/5, Similarity=0.330, Key Points Covered=1/3
+
+[Question 40/40] What are the eligibility requirements for the Student Visa?
+Fetching ChatGPT response...
+ChatGPT response: As of 2025, to apply for a Student Visa in the UK, you must meet the following eligibility criteria:
+
+1. **Course Requirement**: You must have an offer to study on a course by a licensed student sponsor. The course should be a full-time course leading to a qualification that's at least level 6 on the Ofqual register or a full-time course at degree level or above that is compliant with the student visa regulations.
+
+2. **Sponsorship**: You must have a Confirmation of Acceptance for Studies (CAS) from your educational institution, which needs to be issued no more than 6 months before you apply.
+
+3. **Financial Requirement**: You must demonstrate that you can support yourself and pay for your course. This typically means having enough money to cover your course fees for the first year and living costs for up to nine months. The exact amount depends on your circumstances and where you will be studying.
+
+4. **English Language Requirement**: You must prove your knowledge of the English language. This usually means passing a Secure English Language Test (SELT) from an approved provider at level B2 if you're studying at a degree level or higher, or B1 for below degree level.
+
+5. **Age Requirement**: You must be at least 16 years old.
+
+6. **Consent**: If you are 16 or 17 years old, you will need parental consent to travel to and live in the UK.
+
+Meeting these criteria is essential to be considered for a Student Visa in the UK.
+Evaluation: Score=2.15/5, Similarity=0.230, Key Points Covered=2/3
+
+Results saved to:
+  - chatgpt_test_logs\chatgpt_uk_immigration_test_results.csv
+  - chatgpt_test_logs\chatgpt_uk_immigration_test_results.json
